@@ -1,1 +1,53 @@
-theme: jekyll-theme-cayman
+remote_theme: peterdesmet/petridish@1.1
+
+# SITE SETTINGS
+title: Atlantic Canada Species At Risk Habitat Modelling Community of Practice                        # Title in top navigation bar (navbar) and <head>
+description: A community of practice for habitat modellers in the atlantic region. We are primarily interested in species at risk # Site description in <head>
+author: Atlantic Canada Conservation Data Centre                    # Used for copyright statement in footer
+url: "https://atlantichabitatmodels.github.io/"  # No slash at the end
+baseurl: "/communityofpractice"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
+                                        # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
+                                        # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/about/#links
+
+# SOCIAL PROFILES
+github_username: atlantichabitatmodels            # Social icon in footer
+
+# THEME SETTINGS (ALL OPTIONAL)
+posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
+tweets_on_home: false                    # Show Twitter feed of twitter_username on homepage
+archive_permalink: /blog/               # Permalink of page using archive.html layout, required when using post categories
+logo: /assets/images/elyse-turton-9M478YLamG0-unsplash.jpg # Logo in navbar, will be displayed with 30px height
+colors:
+  links: "#007bff"                      # Color for links: use a readable color that contrasts well with dark text
+  banner: "#007bff"                     # Background color for page banners: use color that contrasts well with white
+  footer: "#6c757d"                     # Background color for footer: use color that contrasts well with white
+rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
+
+# BUILD SETTINGS
+markdown: kramdown
+plugins:                                # If you build your site on gh-pages, only use these plugins: https://pages.github.com/versions/
+  - jekyll-feed
+  - jekyll-sitemap
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - LICENSE
+  - package-lock.json
+  - package.json
+  - petridish.gemspec
+
+# FRONTMATTER DEFAULTS
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: "/blog/:year/:slug/"   # Use /blog/yyyy/{filename}/ as permalink for all posts
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"                 # Only required for Petridish website, implied for sites using a theme
