@@ -1,0 +1,24 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
+  href: /
+- text: Contribute
+  menu:
+  - text: Join the Community Directory
+    href: directory
+  - text: Volunteer
+    href: volunteer
+  - text: Request Access to Knowledge Workspace Links
+    href: contact
+  - text: "---" 
+  - text: "Access to Knowledge Workspace Required for Links Below" 
+  - text: Collaborate with Others
+    href: https://collab.agr.gc.ca/co/stbdc-dddgst/Lists/Contacts/AllItems.aspx
+  - text: Start a Discussion
+    href: https://collab.agr.gc.ca/co/stbdc-dddgst/Lists/Team%20Discussion/AllItems.aspx
+- text: Session Calendar
+  href: https://calendar.google.com/calendar/embed?src=aasr1clnsqb5f7q40brbrfggfc%40group.calendar.google.com&ctz=America%2FToronto
+- text: Previous Sessions
+  href: https://collab.agr.gc.ca/co/stbdc-dddgst/Documents/Forms/AllItems.aspx
+- text: Join a Session
+  href: contact
