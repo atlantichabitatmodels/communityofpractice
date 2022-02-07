@@ -16,7 +16,7 @@ Please see our community of practice directory [here](directory)!
 
 ## Goals
 
-Our goals are:
+Our goals are to:
 1. Foster community building and knowledge sharing in the Atlantic region
 2. Develop best practices for habitat modelling
 3. Tailor our efforts to species at risk

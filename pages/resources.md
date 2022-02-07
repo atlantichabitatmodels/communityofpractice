@@ -7,7 +7,7 @@ imageLicense: |
 permalink: /resources/
 ---
 
-## NatureServe
+## Resources from NatureServe
 
 [Species Habitat Modelling Best Practices Wiki](https://docs.google.com/document/d/1uzlh6aBrVV6u6Ben_6msPXD8nrCd3-AmxGdWP1EjOxo/edit?usp=sharing)
 

@@ -11,7 +11,7 @@ height: 70vh
 ## Community of Practice meeting themes
 
 * **February**: Connecting people
-* **March**:
-* **April**:
-* **May**:
-* **June**:
+* **March**: Forming working groups
+* **April**: TBD
+* **May**: TBD
+* **June**: TBD
