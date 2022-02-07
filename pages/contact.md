@@ -16,7 +16,9 @@ Please join us at our monthly meeting! Contact jocelyn.pender@accdc.ca to be add
 We use email for slow, more in-depth communication. Please join the email list here. You can send emails to the community of practice by emailing [atlantic-habitat-models-community-of-practice@googlegroups.com](mailto:atlantic-habitat-models-community-of-practice%40googlegroups.com).
 ## Slack
 
- ![Slack logo](https://cdn.iconscout.com/icon/free/png-256/slack-16-722740.png){: .rounded .float-left} We use Slack for fast, short communication. Please join the group using this [invite link](https://join.slack.com/t/slack-zqk1710/shared_invite/zt-136t3bedw-kWwHHsXllexK0_H9~x~LZQ).
+ ![Slack logo](https://cdn.iconscout.com/icon/free/png-256/slack-16-722740.png?w=150&h=150&fit=crop){: .rounded .float-left} We use Slack for fast, short communication. Please join the group using this [invite link](https://join.slack.com/t/slack-zqk1710/shared_invite/zt-136t3bedw-kWwHHsXllexK0_H9~x~LZQ).
+
+ You can sign in to the Slack workspace [here](atlanticcanad-hvq4185.slack.com).
 
 ## Community directory
 
