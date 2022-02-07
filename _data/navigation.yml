@@ -10,8 +10,8 @@
     href: https://docs.google.com/spreadsheets/d/1_GZKDpZa18Ga0irokXhh-1ZUyF3TPi0Jl_yG4NrdVlk/edit?usp=sharing
   - text: Community Curated Resources
     href: resources
-- text: Communication Channels
-  menu: contact
+- text: Communication
+  href: contact
 - text: Meetings
   menu:
   - text: Upcoming Meetings

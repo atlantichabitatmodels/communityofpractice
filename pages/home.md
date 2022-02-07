@@ -14,9 +14,10 @@ height: 100vh
 {: .alert .alert-info}
 Please see our community of practice directory [here](directory)!
 
-Our goals are to:
-1. Develop best practices
+## Goals
 
-### Support or Contact
+Our goals are:
+1. Foster community building and knowledge sharing in the Atlantic region
+2. Develop best practices for habitat modelling
+3. Tailor our efforts to species at risk
 
-jocelyn.pender@accdc.ca
