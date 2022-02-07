@@ -2,7 +2,7 @@
 
 - name: Jocelyn Pender
   role: Community of Practice facilitator
-  image: http://accdc.com/images/staff/JP.jpg
+  image: https://avatars.githubusercontent.com/u/16246446?v=4
   description: > # Can be Markdown
     Jocelyn sends out meeting invites, updates the website, and sets up communication channels.
   github: jocelynpender
@@ -10,7 +10,7 @@
 
 - name: James Churchill
   role: Community of Practice facilitator
-  image: http://accdc.com/images/staff/JC.jpg
+  image: https://avatars.githubusercontent.com/u/87653348?v=4
   description: >
     James develops Community of Practice roadmaps, facilitates meetings and oversees community of practice initiatives
   github: jlchurchill
