@@ -21,4 +21,4 @@ Please join us at our monthly meeting! Contact jocelyn.pender@accdc.ca to be add
 
 ## Community directory
 
-We keep track of our community members' expertise in our [community directory](directory).
+We keep track of our community members' expertise in our [community directory](/pages/directory).
