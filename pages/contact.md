@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Communication
 description: How can I get in touch with the Atlantic Canada Species At Risk Habitat Modelling Community of Practice? 
 background: assets/images/elyse-turton-46QNWGT1PzM-unsplash.jpg
 imageLicense: |
