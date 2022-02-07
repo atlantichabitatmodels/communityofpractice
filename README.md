@@ -2,11 +2,13 @@
 
 This repository contains the source files for the website of the [Atlantic Canada Species At Risk Habitat Modelling Community of Practice](https://atlantichabitatmodels.github.io/communityofpractice/).
 
+The following documentation was adapted from [OSCIBIO's website documentation](https://github.com/inbo/.oscibio). Thanks, OSCIBIO!
+
 ## Usage
 
 This website makes use of the static website generator [Jekyll](https://jekyllrb.com/) and the [Petridish](https://github.com/peterdesmet/petridish) theme. **Each commit to `gh-pages` will automatically trigger a new build on GitHub Pages.** There is no need to build the site locally, but you can by installing Jekyll and running `bundle exec jekyll serve`.
 
-Minor changes can be committed directly to `main`.
+Minor changes can be committed directly to `gh-pages`.
 
 Changes requiring review (e.g. new blog posts) should be created in a separate branch and submitted as a pull request. Some guidelines:
 

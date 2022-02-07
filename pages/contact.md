@@ -13,9 +13,10 @@ Please join us at our monthly meeting! Contact jocelyn.pender@accdc.ca to be add
 
 ## Email
 
-
+We use email for slow, more in-depth communication. Please join the email list here.
 ## Slack
 
+ We use Slack for fast, short communication. Please join the group using this [invite link](https://join.slack.com/t/slack-zqk1710/shared_invite/zt-136t3bedw-kWwHHsXllexK0_H9~x~LZQ).
 
 ## Community directory
 
