@@ -2,10 +2,16 @@
 
 - text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
-- text: Community Directory
-  href: directory
-- text: Data Directory
-  href: https://docs.google.com/spreadsheets/d/1_GZKDpZa18Ga0irokXhh-1ZUyF3TPi0Jl_yG4NrdVlk/edit?usp=sharing
+- text: Resources
+  menu:
+  - text: Community Directory
+    href: directory
+  - text: Data Directory
+    href: https://docs.google.com/spreadsheets/d/1_GZKDpZa18Ga0irokXhh-1ZUyF3TPi0Jl_yG4NrdVlk/edit?usp=sharing
+  - text: Community Curated Resources
+    href: resources
+- text: Communication Channels
+  menu: contact
 - text: Meetings
   menu:
   - text: Upcoming Meetings
