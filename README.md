@@ -1,4 +1,4 @@
-# OSCIBIO website
+# Atlantic Canada Species At Risk Habitat Modelling Community of Practice website
 
 This repository contains the source files for the website of the [Atlantic Canada Species At Risk Habitat Modelling Community of Practice](https://atlantichabitatmodels.github.io/communityofpractice/).
 
