@@ -1,5 +1,3 @@
-remote_theme: peterdesmet/petridish@1.1
-
 # SITE SETTINGS
 title: Atlantic Canada Species At Risk Habitat Modelling                        # Title in top navigation bar (navbar) and <head>
 description: A community of practice for habitat modellers in the atlantic region. We are primarily interested in species at risk # Site description in <head>
@@ -13,6 +11,8 @@ baseurl: "/communityofpractice"                 # Only required if your site is 
 github_username: atlantichabitatmodels            # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
+theme: minima
+remote_theme: peterdesmet/petridish@1.1
 posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
 tweets_on_home: false                    # Show Twitter feed of twitter_username on homepage
 archive_permalink: /blog/               # Permalink of page using archive.html layout, required when using post categories
@@ -46,8 +46,3 @@ defaults:
       type: "posts"
     values:
       permalink: "/blog/:slug/"   # Use /blog/yyyy/{filename}/ as permalink for all posts
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"                 # Only required for Petridish website, implied for sites using a theme
