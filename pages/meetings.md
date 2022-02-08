@@ -11,21 +11,22 @@ height: 70vh
 
 ## February meeting
 
-**February session goals**: 
+### February session goals: 
 - connect people within the community of practice
 - address the lack of awareness of expertise of community members
 - address the lack of awareness of data and models
 
-**Agenda**:
-Welcome and introduction to community and data directory files, website, Google Group and Slack group (15 mins)
-Four ‘Get To Know the Participants’ talks (30 mins). Please contact me if you'd like to deliver a talk during the February session!
-Introduction to speed networking (5 mins)
-Speed networking in breakout rooms of 3-4 people (four shuffles of 15mins each, total time 1h)
-Wrap up (10min)
+### Agenda:
+* Welcome and introduction to community and data directory files, website, Google Group and Slack group (15 mins)
+* Four ‘Get To Know the Participants’ talks (30 mins). Please contact me if you'd like to deliver a talk during the February session!
+* Introduction to speed networking (5 mins)
+* Speed networking in breakout rooms of 3-4 people (four shuffles of 15mins each, total time 1h)
+* Wrap up (10min)
 
-Before the session:
+### Before the session:
 Please review the attached handout to prepare for the speed networking!
 
+{: .alert .alert-info}
 A note for this session:
 During our February meeting, the goal is to informally get to know each other and make connections. 
 
@@ -37,10 +38,12 @@ During our February meeting, the goal is to informally get to know each other an
 
 ## Community of Practice meeting themes
 
+{: .alert .alert-info}
+We may pause the meetings during the summer. 
+
+
 * **February**: Connecting people
 * **March**: Forming working groups
 * **April**: TBD
 * **May**: TBD
 
-{: .alert .alert-info}
-We may pause the meetings during the summer. 
