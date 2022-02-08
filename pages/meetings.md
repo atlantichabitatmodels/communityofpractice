@@ -23,13 +23,6 @@ height: 70vh
 * Speed networking in breakout rooms of 3-4 people (four shuffles of 15mins each, total time 1h)
 * Wrap up (10min)
 
-### Before the session:
-Please review the attached handout to prepare for the speed networking!
-
-{: .alert .alert-info}
-A note for this session:
-During our February meeting, the goal is to informally get to know each other and make connections. 
-
 ### February meeting resources
 
 * [Speed networking room handout](https://docs.google.com/document/d/1m8zaV6yK97pGITH2V3LdfSQUI6NNnxjZiEv4SNFfQ5o/edit?usp=sharing)
