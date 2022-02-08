@@ -13,7 +13,7 @@ Please join us at our monthly meeting! Contact [jocelyn.pender@accdc.ca](mailto:
 
 ## Email
 
-We use email for slow, more in-depth communication. Please join the email list here. You can send emails to the community of practice by emailing [atlantic-habitat-models@googlegroups.com](mailto:atlantic-habitat-models%40googlegroups.com).
+We use email for slow, more in-depth communication. Please join the email list [here](https://groups.google.com/g/atlantic-habitat-models/). You can send emails to the community of practice by emailing [atlantic-habitat-models@googlegroups.com](mailto:atlantic-habitat-models%40googlegroups.com).
 ## Slack
 
 ![Slack logo](https://cdn.iconscout.com/icon/free/png-256/slack-16-722740.png?w=150&h=150&fit=crop){: .rounded .float-left}
