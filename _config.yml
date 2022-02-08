@@ -2,7 +2,7 @@
 title: Atlantic Canada Species At Risk Habitat Modelling                        # Title in top navigation bar (navbar) and <head>
 description: A community of practice for habitat modellers in the atlantic region. We are primarily interested in species at risk # Site description in <head>
 author: Atlantic Canada Conservation Data Centre                    # Used for copyright statement in footer
-url: "https://atlantichabitatmodels.github.io/"  # No slash at the end
+url: "https://atlantichabitatmodels.github.io"  # No slash at the end
 baseurl: "/communityofpractice"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/about/#links
