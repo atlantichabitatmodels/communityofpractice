@@ -11,7 +11,7 @@ height: 70vh
 
 ## February meeting
 
-### February session goals: 
+### February meeting goals: 
 - connect people within the community of practice
 - address the lack of awareness of expertise of community members
 - address the lack of awareness of data and models
