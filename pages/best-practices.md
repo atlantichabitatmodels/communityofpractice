@@ -24,5 +24,5 @@ This working group needs a 'working group lead'.
   - All aspects of modelling process?
 -	Does Nature Serve have a good framework here?
 - Start from resources already available
-  - E.g., Nature Serve core doc
+  - E.g., [Nature Serve core doc](https://docs.google.com/document/d/1uzlh6aBrVV6u6Ben_6msPXD8nrCd3-AmxGdWP1EjOxo/edit?usp=sharing)
   - Build and adapt as necessary
