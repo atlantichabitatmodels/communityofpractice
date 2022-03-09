@@ -26,7 +26,7 @@ height: 70vh
 * Question period for ‘Get to Know the Participants’ talks in breakout rooms (20 mins)
 * Introduction to working group format (5 mins)
 * Break (5 mins). Folks who do not wish to be working groups members are invited to leave.
-* Working groups sessions on gather.town (50 mins)
+* Working groups sessions on (gather.town)[https://app.gather.town/invite?token=2JlYYy_PO1PoNuevTkLz7iFn9oGlOjO_] (50 mins)
 * Wrap up (5 mins)
  
 **Before the session:**
