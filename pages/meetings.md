@@ -26,11 +26,11 @@ height: 70vh
 * Question period for ‘Get to Know the Participants’ talks in breakout rooms (20 mins)
 * Introduction to working group format (5 mins)
 * Break (5 mins). Folks who do not wish to be working groups members are invited to leave.
-* Working groups sessions on (gather.town)[https://app.gather.town/invite?token=2JlYYy_PO1PoNuevTkLz7iFn9oGlOjO_] (50 mins)
+* Working groups sessions on [gather.town](https://app.gather.town/invite?token=2JlYYy_PO1PoNuevTkLz7iFn9oGlOjO_) (50 mins)
 * Wrap up (5 mins)
  
 **Before the session:**
-Please fill out this very short survey: (https://forms.gle/a6jmPFAVAxWe4cGy9)[https://forms.gle/a6jmPFAVAxWe4cGy9]
+Please fill out this very short survey: [https://forms.gle/a6jmPFAVAxWe4cGy9](https://forms.gle/a6jmPFAVAxWe4cGy9)
  
 **A note for this session:**
 The second half of this session will be a working meeting. Please arrive ready to contribute (i.e., turn on mic and video, be in a comfortable location, etc.). 
