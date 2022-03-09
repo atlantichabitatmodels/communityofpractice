@@ -7,9 +7,6 @@ imageLicense: |
 permalink: /best-practices/
 ---
 
-{: .alert .alert-info}
-This working group needs a 'working group lead'.
-
 ## Next steps
 
 - Define goals of best practices

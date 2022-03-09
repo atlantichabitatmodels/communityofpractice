@@ -7,9 +7,6 @@ imageLicense: |
 permalink: /data-sharing/
 ---
 
-{: .alert .alert-info}
-This working group needs a 'working group lead'.
-
 ## Next steps
 
 - Occurrence data
