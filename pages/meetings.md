@@ -30,10 +30,12 @@ height: 70vh
 * Wrap up (5 mins)
  
 **Before the session:**
-Please fill out this very short survey: https://forms.gle/a6jmPFAVAxWe4cGy9
+Please fill out this very short survey: (https://forms.gle/a6jmPFAVAxWe4cGy9)[https://forms.gle/a6jmPFAVAxWe4cGy9]
  
 **A note for this session:**
 The second half of this session will be a working meeting. Please arrive ready to contribute (i.e., turn on mic and video, be in a comfortable location, etc.). 
+
+
 ## Community of Practice meeting themes
 
 {: .alert .alert-info}
