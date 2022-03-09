@@ -11,13 +11,14 @@ height: 70vh
 This page will be used to document past community of practice meetings.
 
 ## February 2022
+**Meeting theme**: Connecting people
 
 * [Exit survey](https://forms.gle/ZMMStvpEKyZ5hbFT6)
 * [A place to document session takeaways](https://docs.google.com/document/d/1mL5dBxoGxEvjeoZqI3IUrGcpmosOv6kuYY62tYPrGQc/edit?usp=sharing)
 
 
 ## January 2022
-
+**Meeting theme**: Establishing community of practice priorities
 [Exit survey](https://forms.gle/Uvtv8omTvukaQZiw8)
 
 ### Notes
