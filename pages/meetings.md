@@ -14,17 +14,13 @@ height: 70vh
 
 **March session goals:**
 * Continue community building through several short talks and networking
-* Establish working groups. More specifically:
-	* Determine who needs to be involved in each working group (i.e., key contributors who may be absent from this March meeting)
-	* Determine how the working groups will work together. Will they work together during Community of Practice meetings? Will they meet outside of Community of Practice meetings?
-	* Decide what the groups will tackle first. 
-	* Establish shared leadership within the groups. 
+* Establish working groups. See working group agenda [here](https://docs.google.com/document/d/1_izUyuh_66MM1f1fQevr5cMiBpIW3O5HghgwWHRjEuA/edit?usp=sharing).
 
 **Agenda:**
 * Welcome (5 mins)
 * Four ‘Get to Know the Participants’ talks (30 mins). Please contact me if you'd like to deliver a talk during the March session!
 * Question period for ‘Get to Know the Participants’ talks in breakout rooms (20 mins)
-* Introduction to working group format (5 mins)
+* Introduction to working group meeting format (5 mins)
 * Break (5 mins). Folks who do not wish to be working groups members are invited to leave.
 * Working groups sessions on [gather.town](https://app.gather.town/invite?token=2JlYYy_PO1PoNuevTkLz7iFn9oGlOjO_) (50 mins)
 * Wrap up (5 mins)
