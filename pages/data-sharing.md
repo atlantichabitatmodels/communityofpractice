@@ -21,3 +21,7 @@ permalink: /data-sharing/
   - Storage
       - Organizational mechanisms already in place
       - Constraints from organizations or publishers
+
+## Meeting notes
+
+[Working group meeting 1](https://docs.google.com/document/d/1Gz9-81BK6pi4Seo1ndQOm3Uauqm-mVK_hbV_IEP0cuw/edit?usp=sharing)
