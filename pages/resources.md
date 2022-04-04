@@ -13,4 +13,6 @@ permalink: /resources/
 
 ## Scientific Literature
 
-[Guisan, A., Tingley, R., Baumgartner, J. B., Naujokaitis-Lewis, I., Sutcliffe, P. R., Tulloch, A. I. T., Regan, T. J., Brotons, L., McDonald-Madden, E., Mantyka-Pringle, C., Martin, T. G., Rhodes, J. R., Maggini, R., Setterfield, S. A., Elith, J., Schwartz, M. W., Wintle, B. A., Broennimann, O., Austin, M., … Buckley, Y. M. (2013). Predicting species distributions for conservation decisions. Ecology Letters, 16(12), 1424–1435. https://doi.org/10.1111/ele.12189](https://doi.org/10.1111/ele.12189)
+[Araújo, Miguel B., et al. "Standards for distribution models in biodiversity assessments." Science Advances 5.1 (2019): eaat4858.](https://www.science.org/doi/pdf/10.1126/sciadv.aat4858)
+
+[Guisan, Antoine, et al. "Predicting species distributions for conservation decisions." Ecology letters 16.12 (2013): 1424-1435.](https://doi.org/10.1111/ele.12189)
