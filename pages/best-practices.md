@@ -21,5 +21,5 @@ permalink: /best-practices/
   - All aspects of modelling process?
 -	Does Nature Serve have a good framework here?
 - Start from resources already available
-  - E.g., [Nature Serve core doc](https://docs.google.com/document/d/1uzlh6aBrVV6u6Ben_6msPXD8nrCd3-AmxGdWP1EjOxo/edit?usp=sharing)
+  - E.g., [Nature Serve core doc](https://docs.google.com/document/d/1uzlh6aBrVV6u6Ben_6msPXD8nrCd3-AmxGdWP1EjOxo/edit?usp=sharing), and papers like [Guisan, Antoine, et al. "Predicting species distributions for conservation decisions." Ecology letters 16.12 (2013): 1424-1435.](https://doi.org/10.1111/ele.12189)
   - Build and adapt as necessary
