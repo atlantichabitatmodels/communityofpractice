@@ -10,6 +10,15 @@ height: 70vh
 
 This page will be used to document past community of practice meetings.
 
+
+### March 2022
+
+**Meeting theme**
+* Continue community building through several short talks and networking
+* Establish working groups. See working group agenda [here](https://docs.google.com/document/d/1_izUyuh_66MM1f1fQevr5cMiBpIW3O5HghgwWHRjEuA/edit?usp=sharing).
+
+* [Data Sharing working group meeting notes](https://docs.google.com/document/d/1Gz9-81BK6pi4Seo1ndQOm3Uauqm-mVK_hbV_IEP0cuw/edit)
+
 ## February 2022
 **Meeting theme**: Connecting people
 
