@@ -17,7 +17,6 @@ Note: **This is NOT a lecture series!** Our monthly meeting is an evolving forma
 {: .alert .alert-info}
 We may pause the meetings during the summer. 
 
-* **March**: Forming working groups
 * **April**: TBD
 * **May**: TBD
-
+* **June**: TBD
