@@ -28,7 +28,8 @@ This page will be used to document past community of practice meetings.
 
 ## January 2022
 **Meeting theme**: Establishing community of practice priorities
-[Exit survey](https://forms.gle/Uvtv8omTvukaQZiw8)
+
+* [Exit survey](https://forms.gle/Uvtv8omTvukaQZiw8)
 
 ### Notes
 
