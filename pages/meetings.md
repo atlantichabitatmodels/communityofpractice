@@ -17,6 +17,6 @@ Note: **This is NOT a lecture series!** Our monthly meeting is an evolving forma
 {: .alert .alert-info}
 We may pause the meetings during the summer. 
 
-* **April**: TBD
-* **May**: TBD
+* **April**: Tentative: modelling case studies
+* **May**: Westwood Lab workshop: an approach to ‘grading’ data quality and quantity for environmental covariates for modelling
 * **June**: TBD
