@@ -25,4 +25,4 @@ You can sign in to the Slack workspace [here](atlanticcanad-hvq4185.slack.com).
 
 ## Community directory
 
-We keep track of our community members' expertise in our [community directory](/pages/directory).
+We keep track of our community members' expertise in our [community directory](https://atlantichabitatmodels.github.io/communityofpractice/directory/).
