@@ -15,7 +15,8 @@ remote_theme: peterdesmet/petridish@1.1
 posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
 tweets_on_home: false                    # Show Twitter feed of twitter_username on homepage
 archive_permalink: /blog/               # Permalink of page using archive.html layout, required when using post categories
-logo: /assets/images/earth.png # Logo in navbar, will be displayed with 30px height
+logo: /favicon.ico # Logo in navbar, will be displayed with 30px height
+favicon: /favicon.ico # testing
 colors:
   links: "#84a8bd"                      # Color for links: use a readable color that contrasts well with dark text
   banner: "#96a493"                     # Background color for page banners: use color that contrasts well with white
