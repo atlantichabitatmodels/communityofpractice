@@ -49,7 +49,7 @@ content
 │   ├── best-practices       : Landing page for best practices working group
 │   ├── contact              : Information about the mailing list and Slack channel
 │   ├── contribute           : This page
-│   ├──  data-sharing        : Landing page for data sharing working group
+│   ├── data-sharing        : Landing page for data sharing working group
 │   ├── directory            : Community directory
 │   ├── home                 : Home page
 │   ├── meetings             : A landing page for all upcoming meetings
@@ -58,6 +58,7 @@ content
 │   └── team                 : Logistics team contact info
 │
 └── _posts                   : Blog posts
+└── assets                   : A place to store image files or other document types
 ```
 
 ### How do I start a new page?
