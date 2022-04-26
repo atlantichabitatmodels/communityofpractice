@@ -1,11 +1,11 @@
 ---
 title: Contributing to the website
-description: Anyone can contribute to the website. Whether it is [reporting an issue](#how-do-i-report-an-issue), [writing content](#how-do-i-edit-content) or [reviewing](#how-can-i-review-content), any help in keeping the website up to date and relevant is helpful. This page explains how.
+description: Anyone can contribute to the website. Whether it is [reporting an issue](#how-do-i-report-an-issue) or [writing content](#how-do-i-edit-content), any help in keeping the website up to date and relevant is helpful. This page explains how.
 background: /assets/images/patrice-bouchard-Wq0tdsvq5_4-unsplash.jpg
 permalink: /contribute/
 ---
 
-Content adapted from [TDWG](https://github.com/tdwg/website).
+The follownig content is adapted from [TDWG](https://github.com/tdwg/website).
 
 ## Reporting issues
 
@@ -53,7 +53,7 @@ content
 │   ├── directory            : Community directory
 │   ├── home                 : Home page
 │   ├── meetings             : A landing page for all upcoming meetings
-│   ├── past-meetings        : A landing page for all upcoming meetings
+│   ├── past-meetings        : A landing page for all past meetings
 │   ├── resources            : A place to collect and curate relevant resources
 │   └── team                 : Logistics team contact info
 │
@@ -62,14 +62,12 @@ content
 
 ### How do I start a new page?
 
-Before starting a new page, consult with the website maintainers if and where the page should be created by [opening an issue](#how-do-i-report-an-issue). The steps below describe how to create a page after this has been discussed.
-
 1. Browse the [website repository](https://github.com/atlantichabitatmodels/communityofpractices) to the place where you want to create the page. See [how content is organized](#how-is-content-organized).
 2. Click `Create new file`. You need to be logged-in to GitHub to do this.
 
     ![Create button on GitHub](https://www.tdwg.org/static/pages/about/website-faq/create-page-button.png)
 
-3. Name your file `page-name/index.md`. File names should be short, lowercase and hyphen-separated.
+3. Name your file `pages/page-name.md`. File names should be short, lowercase and hyphen-separated.
 
     ![Name file](https://www.tdwg.org/static/pages/about/website-faq/create-page-name.png)
 
