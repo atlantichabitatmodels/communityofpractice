@@ -13,10 +13,10 @@
     href: resources
   - text: Logistics Team
     href: team
+  - text: Communication
+    href: contact
   - text: Contribute to the Website
     href: contribute
-- text: Communication
-  href: contact
 - text: Meetings
   menu:
   - text: Upcoming Meetings
