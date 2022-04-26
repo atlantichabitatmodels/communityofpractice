@@ -2,7 +2,7 @@
 
 This repository contains the source files for the website of the [Atlantic Canada Species At Risk Habitat Modelling Community of Practice](https://atlantichabitatmodels.github.io/communityofpractice/).
 
-The following documentation was adapted from [OSCIBIO's website documentation](https://github.com/inbo/.oscibio). Thanks, OSCIBIO!
+The following documentation was adapted from [OSCIBIO's website documentation](https://github.com/inbo/oscibio). Thanks, OSCIBIO!
 
 ## Usage
 
