@@ -32,7 +32,7 @@ Based on the feedback we received during last month’s meeting, we’re pivotin
 -	Introduction to [analytical working group format](https://docs.google.com/document/d/1MNc0BoxiwLTjrQuSdAXjY764lH-Imd3j8xRQ9C5NBEs/edit?usp=sharing) (~ at 3:30pm). Non-technical folks are welcome to leave at this point in the meeting.
 -	[Analytical working groups](https://docs.google.com/document/d/1MNc0BoxiwLTjrQuSdAXjY764lH-Imd3j8xRQ9C5NBEs/edit?usp=sharing) tackle tasks together in breakout rooms
 
-
+#### Future meetings
 {: .alert .alert-info}
 We may pause the meetings during the summer. 
 
