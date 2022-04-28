@@ -11,7 +11,7 @@ baseurl: "/communityofpractice"                 # Only required if your site is 
 github_username: atlantichabitatmodels            # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
-remote_theme: peterdesmet/petridish # point to the actively developed theme
+remote_theme: peterdesmet/petridish@1.1
 posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
 tweets_on_home: false                    # Show Twitter feed of twitter_username on homepage
 archive_permalink: /blog/               # Permalink of page using archive.html layout, required when using post categories
