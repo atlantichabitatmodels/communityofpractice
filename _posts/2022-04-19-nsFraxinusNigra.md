@@ -4,7 +4,7 @@ description: Fraxinus nigra is an ecologically and culturally important species 
 background: /assets/images/iNat97730535.jpeg
 author: [Jocelyn Pender]
 categories: [Model Spotlight, SDM, Nova Scotia, Species at Risk, Fraxinus nigra, Wisqoq, Black Ash]
-comments: true
+comments: false
 ---
 
 In partnership with Parks Canada, the Atlantic Canada Conservation Data Centre (AC CDC) has developed a *Fraxinus nigra* (Wisqoq; Black Ash) species distribution model extending across mainland Nova Scotia.
