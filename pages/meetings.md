@@ -18,5 +18,6 @@ Note: **This is NOT a lecture series!** Our monthly meeting is an evolving forma
 Westwood Lab workshop: an approach to ‘grading’ data quality and quantity for environmental covariates for modelling
 
 #### Future meetings
+
 {: .alert .alert-info}
 Meetings are paused until Fall 2022

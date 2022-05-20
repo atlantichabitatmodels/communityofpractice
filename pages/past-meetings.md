@@ -17,8 +17,10 @@ This page will be used to document past community of practice meetings.
 * [Araújo et al. best practices](http://standards.biogeoinformatics.org/index.php/Main_Page) and [case study](https://docs.google.com/document/d/11pUPL2m5xvYKBBXkMwFjzY7nUL5WwZZGvH4-SHZZDso/edit?usp=sharing) 
 
 
-Did not have time for analytical working group tasks:
+We did not have time for the analytical working group task:
 * [Analytical working group task](https://docs.google.com/document/d/1MNc0BoxiwLTjrQuSdAXjY764lH-Imd3j8xRQ9C5NBEs/edit?usp=sharing)
+
+
 ### March 2022
 
 **Meeting theme**
