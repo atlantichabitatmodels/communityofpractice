@@ -21,4 +21,4 @@ Meetings are paused until Fall 2022
 Tentative format
 
 
-![CoP Fall Tenative Format](assets\images\CoP Fall Session Structure.png)
+![CoP Fall Tenative Format](assets/images/CoP Fall Session Structure.png)

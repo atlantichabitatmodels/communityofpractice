@@ -14,9 +14,9 @@ This page will be used to document past community of practice meetings.
 
 Westwood Lab workshop: an approach to ‘grading’ data quality and quantity for environmental covariates for modelling
 
-Riley and Caitlin have asked shared a link where you can add any additional thoughts about the method and the workshop today: https://forms.gle/HeTGJzSYUEZjQ5BC9
+Riley and Caitlin have asked shared a link where you can add any additional thoughts about the method and the workshop today: [here](https://forms.gle/HeTGJzSYUEZjQ5BC9)
 
-Remember to fill out the two question CoP Winter & Spring exit survey: https://forms.gle/U63HvHvUtxK3NdE96 
+Remember to fill out the [two question CoP Winter & Spring exit survey.](https://forms.gle/U63HvHvUtxK3NdE96)
 
 ### April 2022
 
