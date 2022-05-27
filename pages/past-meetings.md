@@ -10,6 +10,14 @@ height: 70vh
 
 This page will be used to document past community of practice meetings.
 
+### May 2022
+
+Westwood Lab workshop: an approach to ‘grading’ data quality and quantity for environmental covariates for modelling
+
+Riley and Caitlin have asked shared a link where you can add any additional thoughts about the method and the workshop today: https://forms.gle/HeTGJzSYUEZjQ5BC9
+
+Remember to fill out the two question CoP Winter & Spring exit survey: https://forms.gle/U63HvHvUtxK3NdE96 
+
 ### April 2022
 
 **Meeting theme**: spread awareness of existing best practices in peer discussion groups

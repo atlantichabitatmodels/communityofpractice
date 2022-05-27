@@ -13,11 +13,12 @@ Note: **This is NOT a lecture series!** Our monthly meeting is an evolving forma
 
 ### Upcoming Meeting Themes
 
-#### May 2022
-
-Westwood Lab workshop: an approach to ‘grading’ data quality and quantity for environmental covariates for modelling
-
-#### Future meetings
-
 {: .alert .alert-info}
 Meetings are paused until Fall 2022
+
+#### September 2022
+
+Tentative format
+
+
+![CoP Fall Tenative Format](assets\images\CoP Fall Session Structure.png)
