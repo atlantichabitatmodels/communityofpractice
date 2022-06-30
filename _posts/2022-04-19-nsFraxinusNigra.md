@@ -16,7 +16,7 @@ We used an inductive modelling approach (i.e., where potential habitat is inferr
 2. Determine where to prioritize field work to find additional occurrences of *Fraxinus nigra*
 3. Supply information to decision makers about high potential areas of *Fraxinus nigra* habitat (e.g., for management or planning applications)
 
-We produced a 50m resolution predictive surface output showing areas of high and low probability of suitable habitat. The final model has an AUC score of 0.8403 when evaluated against training data and an AUC score of 0.8408 when evaluated against testing data. The variable with the highest importance is canopy closure (derived from LiDAR data). 
+We produced a 50m resolution predictive surface output showing areas of high and low probability of suitable habitat. The final model has an AUC score of 0.8403 when evaluated against training data and an AUC score of 0.8408 when evaluated against testing data.
 
 We consulted species experts on its quality and biological feasibility. The model quality was rated by our experts as between 3-star and 4-star on a five-star scale. The experts emphasized that the selected model overestimates probable suitable habitat. *Fraxinus nigra* is a rare species; it is infrequent to absent in almost every area identified anecdotally (and by the model) as probably suitable.
 
