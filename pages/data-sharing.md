@@ -7,6 +7,9 @@ imageLicense: |
 permalink: /data-sharing/
 ---
 
+## Working Group Agreement
+[Working group agreement Google Doc](https://docs.google.com/document/d/1TbDXH8Zh1A-8dK-2mueS6AzB0wGKavdpY6UU5_exPjU/edit?usp=sharing)
+
 ## Next steps
 
 - Occurrence data

@@ -7,6 +7,9 @@ imageLicense: |
 permalink: /best-practices/
 ---
 
+## Working Group Agreement
+[Working group agreement Google Doc](https://docs.google.com/document/d/1__4TuHTvPrxHGrYIUbUozLvxt03hA9pfhLBS0lNVk-g/edit?usp=sharing)
+
 ## Next steps
 
 - Define goals of best practices
