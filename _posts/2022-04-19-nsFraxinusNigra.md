@@ -9,10 +9,10 @@ comments: false
 
 In partnership with Parks Canada, the Atlantic Canada Conservation Data Centre (AC CDC) has developed a *Fraxinus nigra* (Wisqoq; Black Ash) species distribution model extending across mainland Nova Scotia.
 
-*Fraxinus nigra* is an ecologically and culturally important species facing imminent threats (e.g., the arrival of Emerald Ash Borer in Nova Scotia; COSEWIC, 2018). The cultural significance of *Fraxinus nigra* (Black Ash; Wisqoq) derives from its highly flexible wood that can be peeled into thin strips (see [wisqoq.ca](http://wisqoq.ca/) for more information).
+*Fraxinus nigra* is an ecologically and culturally important species facing imminent threats (e.g., the arrival of Emerald Ash Borer in Nova Scotia; COSEWIC, 2018). The cultural significance and value of *Fraxinus nigra* (Black Ash; Wisqoq) cannot be understated. It has been a part of l’nuk culture since time immemorial. Its highly flexible wood, that can be peeled into thin strips, is an important component of its cultural significance (see [wisqoq.ca](http://wisqoq.ca/) for more information).
 
 We used an inductive modelling approach (i.e., where potential habitat is inferred from the data), leveraging a machine learning algorithm. Our modelling goals were to:
-1. Understand where *Fraxinus nigra* (Black Ash, Wisqoq) is distributed in mainland Nova Scotia
+1. Understand where potential *Fraxinus nigra* (Black Ash, Wisqoq) habitat is distributed in mainland Nova Scotia
 2. Determine where to prioritize field work to find additional occurrences of *Fraxinus nigra*
 3. Supply information to decision makers about high potential areas of *Fraxinus nigra* habitat (e.g., for management or planning applications)
 
