@@ -8,8 +8,8 @@ permalink: /data-sharing/
 ---
 
 ## Working Group Agreement
-[Working group agreement Google Doc](https://docs.google.com/document/d/1TbDXH8Zh1A-8dK-2mueS6AzB0wGKavdpY6UU5_exPjU/edit?usp=sharing)
-[Items to discuss in the Fall](https://docs.google.com/document/d/1DQkpKoyMs6PuIXxrTbHCOx75LGPWZuj1K2UX6IHSadI/edit?usp=sharing)
+- [Working group agreement Google Doc](https://docs.google.com/document/d/1TbDXH8Zh1A-8dK-2mueS6AzB0wGKavdpY6UU5_exPjU/edit?usp=sharing)
+- [Items to discuss in the Fall](https://docs.google.com/document/d/1DQkpKoyMs6PuIXxrTbHCOx75LGPWZuj1K2UX6IHSadI/edit?usp=sharing)
 
 ## Next steps
 
