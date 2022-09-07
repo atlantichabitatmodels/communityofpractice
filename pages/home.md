@@ -14,6 +14,10 @@ height: 100vh
 {: .alert .alert-info}
 Please see our community of practice directory [here](directory)!
 
+{: .alert .alert-info}
+‘Skills building’ is an important objective of this community of practice. Who should we contact to facilitate training? Please contact [Jocelyn](team) if you, someone in your group, or another organization might have people and time to commit to delivering a 1-hour workshop to our group in the Fall.
+
+
 ## Goals
 
 Our goals are to:
