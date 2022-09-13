@@ -13,7 +13,7 @@ Note: **This is NOT a lecture series!** Our monthly meeting is an evolving forma
 
 ### Upcoming Meeting Themes
 
-#### September 2022: CABCELLED
+#### September 2022: CANCELLED
 
 #### October 2022
 
