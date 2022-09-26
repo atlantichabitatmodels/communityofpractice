@@ -8,7 +8,7 @@ permalink: /best-practices/
 ---
 
 
-## DRAFT FAQs DOCUMENT
+## Draft FAQs Document
 
 [Google Doc to hold draft FAQs](https://docs.google.com/document/d/1wx3P542CdovUbkNuaawxAS9MlH7bXVbAFjAhGLmUY4E/edit?usp=sharing)
 
