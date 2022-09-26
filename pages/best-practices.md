@@ -7,6 +7,15 @@ imageLicense: |
 permalink: /best-practices/
 ---
 
+
+## DRAFT FAQs DOCUMENT
+
+[Google Doc to hold draft FAQs](https://docs.google.com/document/d/1wx3P542CdovUbkNuaawxAS9MlH7bXVbAFjAhGLmUY4E/edit?usp=sharing)
+
+## Meeting notes
+[September meeting](https://docs.google.com/document/d/1mgDBAGaFtPiOcB0gi5zhj_FSJYuaU2_dKJXWJaeJyx4/edit?usp=sharing)
+
+
 ## Working Group Agreement
 [Working group agreement Google Doc](https://docs.google.com/document/d/1__4TuHTvPrxHGrYIUbUozLvxt03hA9pfhLBS0lNVk-g/edit?usp=sharing)
 
