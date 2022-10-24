@@ -13,7 +13,8 @@ permalink: /best-practices/
 [Google Doc to hold draft FAQs](https://docs.google.com/document/d/1wx3P542CdovUbkNuaawxAS9MlH7bXVbAFjAhGLmUY4E/edit?usp=sharing)
 
 ## Meeting notes
-[September meeting](https://docs.google.com/document/d/1mgDBAGaFtPiOcB0gi5zhj_FSJYuaU2_dKJXWJaeJyx4/edit?usp=sharing)
+- [October meeting](https://docs.google.com/document/d/1KigG_eLuX_hdnboL_SY4yI0vjjet5iyGY4ruIOJ2_U8/edit?usp=sharing)
+- [September meeting](https://docs.google.com/document/d/1mgDBAGaFtPiOcB0gi5zhj_FSJYuaU2_dKJXWJaeJyx4/edit?usp=sharing)
 
 
 ## Working Group Agreement
