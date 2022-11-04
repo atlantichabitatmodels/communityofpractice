@@ -18,3 +18,7 @@ permalink: /resources/
 [Araújo, Miguel B., et al. "Standards for distribution models in biodiversity assessments." Science Advances 5.1 (2019): eaat4858.](https://www.science.org/doi/pdf/10.1126/sciadv.aat4858)
 
 [Guisan, Antoine, et al. "Predicting species distributions for conservation decisions." Ecology letters 16.12 (2013): 1424-1435.](https://doi.org/10.1111/ele.12189)
+
+## Other
+
+[Biodiversity Informatics Training Curriculum](https://kuscholarworks.ku.edu/handle/1808/20559)
