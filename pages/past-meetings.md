@@ -10,6 +10,16 @@ height: 70vh
 
 This page will be used to document past community of practice meetings.
 
+### October 2022
+
+**Skills Building Shop:** Lionel Leston from the University of Alberta demonstrated boosted regression trees for Canada Warbler and/or Wood Thrush in Nova Scotia in R.
+
+•	You can find the [workshop materials here](https://drive.google.com/drive/folders/1Y6mpdu-CbMqt8rDrkLfBfoOSGatwMgsf). Ensure the Google Drive folder structure is replicated on your machine. 
+•	Optional: [download the raw data and large model outputs for Canada Warbler](https://drive.google.com/drive/folders/1uvENaFxpdQEf8QGvUiNGiItmPM4vC9Jk). Once downloaded, move the data into the correct locations in the folder structure created above (put data in 0_data/0_raw and outputs in 2_BRT_outputs)
+
+
+### September 2022: CANCELLED
+
 ### May 2022
 
 Westwood Lab workshop: an approach to ‘grading’ data quality and quantity for environmental covariates for modelling

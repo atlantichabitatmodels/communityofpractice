@@ -13,11 +13,9 @@ Note: **This is NOT a lecture series!** Our monthly meeting is an evolving forma
 
 ### Upcoming Meeting Themes
 
-#### September 2022: CANCELLED
+#### November 2022
 
-#### October 2022
-
-**Skills Building Shop:** Lionel Leston from the University of Alberta will demonstrate boosted regression trees for Canada Warbler and/or Wood Thrush in Nova Scotia in R. He may surprise us with a demonstration of species distribution models, possibly run in Google Earth Engine!
+#### January 2022
 
 #### Fall 2022
 
