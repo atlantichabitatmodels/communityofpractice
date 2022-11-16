@@ -16,6 +16,7 @@ Note: **This is NOT a lecture series!** Our monthly meeting is an evolving forma
 #### November 2022
 
 #### January 2022
+The Julie Lee-Yaw lab will visit us to talk about the limitations of SDMs and their work testing the impacts of modeling decisions on predictions and accuracy. 
 
 #### Fall 2022
 
