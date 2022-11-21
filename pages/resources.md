@@ -15,12 +15,6 @@ permalink: /resources/
 
 [Araújo, Miguel B., et al. "Standards for distribution models in biodiversity assessments." Science Advances 5.1 (2019): eaat4858.](https://www.science.org/doi/pdf/10.1126/sciadv.aat4858)
 
-## Scientific Literature
-
-[A. Lee‐Yaw, Julie, et al. "Species distribution models rarely predict the biology of real populations." Ecography 2022.6 (2022): e05877.](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.05877)
-
-[Guisan, Antoine, et al. "Predicting species distributions for conservation decisions." Ecology letters 16.12 (2013): 1424-1435.](https://doi.org/10.1111/ele.12189)
-
 ## Communities
 
 [GBIF Data Use Club](https://www.gbif.org/data-use-club)
@@ -34,6 +28,12 @@ permalink: /resources/
 [Biodiversity Informatics Training Curriculum](https://kuscholarworks.ku.edu/handle/1808/20559)
 
 [ENM section of GBIF data use course](https://docs.gbif.org/course-data-use/en/ecological-niche-models.html)
+
+## Scientific Literature
+
+[A. Lee‐Yaw, Julie, et al. "Species distribution models rarely predict the biology of real populations." Ecography 2022.6 (2022): e05877.](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.05877)
+
+[Guisan, Antoine, et al. "Predicting species distributions for conservation decisions." Ecology letters 16.12 (2013): 1424-1435.](https://doi.org/10.1111/ele.12189)
 
 ## Domain Specific Resources
 
