@@ -13,6 +13,7 @@ permalink: /best-practices/
 [Google Doc to hold draft FAQs](https://docs.google.com/document/d/1wx3P542CdovUbkNuaawxAS9MlH7bXVbAFjAhGLmUY4E/edit?usp=sharing)
 
 ## Meeting notes
+- [November meeting](https://docs.google.com/document/d/1MxAWvO1HY82Od4cdKkZ1kiOJ6nA5Vvne_zbQilbd8vU/edit?usp=sharing)
 - [October meeting](https://docs.google.com/document/d/1KigG_eLuX_hdnboL_SY4yI0vjjet5iyGY4ruIOJ2_U8/edit?usp=sharing)
 - [September meeting](https://docs.google.com/document/d/1mgDBAGaFtPiOcB0gi5zhj_FSJYuaU2_dKJXWJaeJyx4/edit?usp=sharing)
 
