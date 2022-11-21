@@ -11,6 +11,8 @@ permalink: /resources/
 
 ## Existing Best Practices
 
+[NatureServe Network Species Habitat Model Standard Version 1.0](https://www.natureserve.org/publications/species-habitat-model-standard-natureserve-network)
+
 [NatureServe Species Habitat Modelling Best Practices Wiki](https://docs.google.com/document/d/1uzlh6aBrVV6u6Ben_6msPXD8nrCd3-AmxGdWP1EjOxo/edit?usp=sharing)
 
 [Araújo, Miguel B., et al. "Standards for distribution models in biodiversity assessments." Science Advances 5.1 (2019): eaat4858.](https://www.science.org/doi/pdf/10.1126/sciadv.aat4858)
