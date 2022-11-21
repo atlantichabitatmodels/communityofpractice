@@ -17,6 +17,10 @@ permalink: /data-sharing/
 - [October 2022 working group meeting](https://docs.google.com/document/d/1DQkpKoyMs6PuIXxrTbHCOx75LGPWZuj1K2UX6IHSadI/edit?usp=sharing)
 - [Spring 2022 working group meeting](https://docs.google.com/document/d/1Gz9-81BK6pi4Seo1ndQOm3Uauqm-mVK_hbV_IEP0cuw/edit?usp=sharing)
 
+
+## Other relevant documents
+- [Notes from the January CoP meeting Model Users breakout room](https://docs.google.com/document/d/1aoRRVzJRXc2uQmZCR-_uRx3tTCB0WhQhNLf3rvDADN4/edit?usp=sharing)
+
 ## Next steps
 
 - Occurrence data
