@@ -8,7 +8,7 @@ permalink: /data-sharing/
 ---
 
 ## Documents
-- [Draft Data Sharing Best Practices](https://docs.google.com/document/d/1AQB3v6CRYfkijjXA-h4zxZPIJtfSjP_pZ5oguILl8Qs/edit?usp=sharing)
+- [Google Doc Draft Data Sharing Best Practices](https://docs.google.com/document/d/1AQB3v6CRYfkijjXA-h4zxZPIJtfSjP_pZ5oguILl8Qs/edit?usp=sharing)
 - [Google Doc to record specific data sharing challenges](https://docs.google.com/document/d/1xPL6t1Y2cJHRmwSYd930gU74Y7aYCir1E-47EfSRKzw/edit?usp=sharing)
 - [Working group agreement Google Doc](https://docs.google.com/document/d/1TbDXH8Zh1A-8dK-2mueS6AzB0wGKavdpY6UU5_exPjU/edit?usp=sharing)
 
