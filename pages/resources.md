@@ -23,6 +23,8 @@ permalink: /resources/
 
 ## Training Videos and Resources
 
+[Primer on species distribution modelling for new projects by Dr. Alana Westwood](https://www.youtube.com/watch?v=C3CYx5mbC_s)
+
 [SDM online course by the BCCVL](https://www.youtube.com/playlist?list=PL8nSYhbf9nDSotrn-JSZiJki1sTnnw3yS)
 
 [ENM2020: A Free Online Course and Set of Resources on Modeling Species' Niches and Distributions](https://journals.ku.edu/jbi/article/view/15016)
