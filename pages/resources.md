@@ -45,6 +45,16 @@ permalink: /resources/
 
 ### GIS
 
+Anything by Michael L. Morrison: his work is insightful from a landscape ecology / environmental GIS modelling perspective.
+
+
+Especially:
+
+**Wildlife-Habitat Relationships**
+Concepts and Applications:
+*Wildlife-Habitat Relationships* goes beyond introductory wildlife biology texts to provide wildlife professionals and students with an understanding of the importance of habitat relationships in studying and managing wildlife.
+
+
 ### Generalized Linear Models
 
 ### Occupancy Modelling
