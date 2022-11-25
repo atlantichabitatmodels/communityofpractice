@@ -21,7 +21,7 @@ permalink: /resources/
 
 [GBIF Data Use Club](https://www.gbif.org/data-use-club)
 
-## Training Videos and Resources
+## Training Videos and Training Resources
 
 [Primer on species distribution modelling for new projects by Dr. Alana Westwood](https://www.youtube.com/watch?v=C3CYx5mbC_s)
 
@@ -60,3 +60,15 @@ Concepts and Applications:
 ### Occupancy Modelling
 
 [MacKenzie, Darryl I., et al. Occupancy estimation and modeling: inferring patterns and dynamics of species occurrence. Elsevier, 2017.](https://g.co/kgs/tT6Y21)
+
+## Datasets
+
+### Threats
+
+[The Canadian Human Footprint](https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP2/EVKAVL)
+* Associated paper: [https://www.facetsjournal.com/doi/full/10.1139/facets-2021-0063#sm1](https://www.facetsjournal.com/doi/full/10.1139/facets-2021-0063#sm1)
+
+### Province Specific
+
+[Newfoundland Open Data](https://opendata.gov.nl.ca/public/opendata/page/?page-id=datasets-tabular)
+
