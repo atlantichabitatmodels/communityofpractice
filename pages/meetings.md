@@ -18,3 +18,10 @@ The Julie Lee-Yaw lab will visit us to talk about the limitations of SDMs and th
 
 #### February 2023
 Kellina Higgins will help us understand how to design surveys for effective models.
+
+#### March 2023
+
+This meeting will be pushed into April to allow folks with end-of-fiscal deadlines to attend.
+
+
+On April 14th, Maggie MacPherson from the Boreal Avian Modelling Project will discuss how to predict bird distributions under global change.
