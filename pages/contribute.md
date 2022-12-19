@@ -46,10 +46,10 @@ Content is organized in a [hierarchical directory structure](https://github.com/
 ```
 content
 ├── pages
-│   ├── best-practices-wg    : Landing page for best practices working group
+│   ├── best-practices       : Landing page for best practices working group
 │   ├── contact              : Information about the mailing list and Slack channel
 │   ├── contribute           : This page
-│   ├── data-sharing-wg      : Landing page for data sharing working group
+│   ├── data-sharing        : Landing page for data sharing working group
 │   ├── directory            : Community directory
 │   ├── home                 : Home page
 │   ├── meetings             : A landing page for all upcoming meetings
