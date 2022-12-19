@@ -15,6 +15,7 @@ permalink: /data-sharing/
 
 ## Meeting notes
 
+- [December 2022 working group meeting](https://docs.google.com/document/d/118A3btkiNFbxHVFZIhlo0YDSmh7JM7KGDIA8jJw_P6E/edit?usp=sharing)
 - [November 2022 working group meeting](https://docs.google.com/document/d/1WdCaku-YgdNaMcOQCq0AHQdKPQAKcex8GljmjHJh6YU/edit?usp=sharing)
 - [October 2022 working group meeting](https://docs.google.com/document/d/1DQkpKoyMs6PuIXxrTbHCOx75LGPWZuj1K2UX6IHSadI/edit?usp=sharing)
 - [Spring 2022 working group meeting](https://docs.google.com/document/d/1Gz9-81BK6pi4Seo1ndQOm3Uauqm-mVK_hbV_IEP0cuw/edit?usp=sharing)
