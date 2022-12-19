@@ -10,6 +10,10 @@ height: 70vh
 
 This page will be used to document past community of practice meetings.
 
+### November 2022
+
+Meeting theme: building pseudo SAR habitat models.
+
 ### October 2022
 
 **Skills Building Shop:** Lionel Leston from the University of Alberta demonstrated boosted regression trees for Canada Warbler and/or Wood Thrush in Nova Scotia in R.

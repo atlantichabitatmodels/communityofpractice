@@ -10,9 +10,6 @@ height: 70vh
 ## Community of Practice Monthly Meetings
 ### Upcoming Meeting Themes
 
-#### November 2022
-Meeting theme: building pseudo SAR habitat models.
-
 #### January 2023
 The Julie Lee-Yaw lab will visit us to talk about the limitations of SDMs and their work testing the impacts of modeling decisions on predictions and accuracy. 
 
@@ -20,7 +17,6 @@ The Julie Lee-Yaw lab will visit us to talk about the limitations of SDMs and th
 Kellina Higgins will help us understand how to design surveys for effective models.
 
 #### March 2023
-
 This meeting will be pushed into April to allow folks with end-of-fiscal deadlines to attend.
 
 
