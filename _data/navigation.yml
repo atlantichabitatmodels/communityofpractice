@@ -20,9 +20,9 @@
 - text: Working Groups
   menu:
   - text: Best Practices Working Group
-    href: best-practices
+    href: best-practices-wg
   - text: Data Sharing Working Group
-    href: data-sharing
+    href: data-sharing-wg
 - text: Logistics
   menu:
   - text: Logistics Team
