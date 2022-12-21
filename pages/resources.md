@@ -35,6 +35,8 @@ permalink: /resources/
 
 ## Scientific Literature
 
+[Etherington, Thomas R. and Lieske, David J. Re: Resampling methods for evaluating classification accuracy of wildlife habitat models. ReScience (2019)](assets/papers/Etherington&Lieske-ResamplingMethodsforEvalClassAccuracyofWildlifeHabitatModels.pdf)
+
 [A. Lee‐Yaw, Julie, et al. "Species distribution models rarely predict the biology of real populations." Ecography 2022.6 (2022): e05877.](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.05877)
 
 [Guisan, Antoine, et al. "Predicting species distributions for conservation decisions." Ecology letters 16.12 (2013): 1424-1435.](https://doi.org/10.1111/ele.12189)
