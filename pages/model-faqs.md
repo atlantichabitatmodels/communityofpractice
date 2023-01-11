@@ -14,7 +14,7 @@ These 'modelling best practices' will be used by the community when building mod
 * Appropriate use of products
 * Better decision making
 
-## Questions
+## Modelling Best Practices: Frequently Asked Questions
 
 ### Q: When is it appropriate to use Topographic Position Index (TPI) as a habitat covariate? How should the data be processed for use in models (e.g., raw data? or categories?)?
 
