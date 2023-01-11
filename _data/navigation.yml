@@ -4,6 +4,8 @@
   href: /
 - text: Resources
   menu:
+  - text: Modelling FAQs
+    href: model-faqs
   - text: Community Directory
     href: directory
   - text: Data Directory
