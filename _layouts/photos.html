@@ -17,7 +17,7 @@ description: Template for photo gallery page.
   {% for item in photos %}
     <div class="col-md-6 col-lg-4">
       <div class="card">
-        <img class="card-img-top" src="{{ item.img }}" alt="{{ item.description }}" href="{{ item.href }}">
+        <a href="{{ item.href }}"><img class="card-img-top" src="{{ item.img }}" alt="{{ item.description }}"></a>
         <div class="card-body">
           {% if item.description %}
             <p class="card-text">
