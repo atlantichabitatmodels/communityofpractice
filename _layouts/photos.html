@@ -17,7 +17,7 @@ description: Template for photo gallery page.
   {% for item in photos %}
     <div class="col-md-6 col-lg-4">
       <div class="card">
-        <img class="card-img-top" src="{{ item.img }}" alt="{{ item.description }}">
+        <img class="card-img-top" src="{{ item.img }}" alt="{{ item.description }}" href="{{ item.href }}">
         <div class="card-body">
           {% if item.description %}
             <p class="card-text">
@@ -27,8 +27,6 @@ description: Template for photo gallery page.
           {% if item.by %}
             <p class="card-text text-muted small">
               {% if item.href %}
-                Photo by <a href="{{ item.href }}">{{ item.by }}</a>
-              {% else %}
                 Photo by {{ item.by }}
               {% endif %}
             </p>
