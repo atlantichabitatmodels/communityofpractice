@@ -11,3 +11,6 @@ permalink: /sdm-workshop/
 
 
 [Google Drive Folder for presentations](https://drive.google.com/drive/folders/1FqvtO2IBvg9_2RGT3J29I0LGhv-sQPzk?usp=sharing)
+
+
+[Workshop photos](sdm-workshop-photos)
