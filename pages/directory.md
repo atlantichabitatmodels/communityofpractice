@@ -1,9 +1,7 @@
 ---
 title: Directory
 description: A listing of people and their expertise
-background: assets/images/elyse-turton-46QNWGT1PzM-unsplash.jpg
-imageLicense: |
-  Photo by [Elyse Turton](https://unsplash.com/@elyseturton?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/@elyseturton?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)  
+background: assets/workshop-photos-2023/IMG_8565.jpg
 permalink: /directory/
 ---
 
