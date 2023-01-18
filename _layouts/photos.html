@@ -1,0 +1,40 @@
+---
+layout: photos
+description: Template for photo gallery page.
+---
+
+{% assign photos = site.data.photos %}
+
+<div class="row">
+  <div class="col">
+
+    {{ content }}
+  
+  </div>
+</div>
+
+<div class="row cards">
+  {% for item in photos %}
+    <div class="col-md-6 col-lg-4">
+      <div class="card">
+        <img class="card-img-top" src="{{ item.img }}" alt="{{ item.description }}">
+        <div class="card-body">
+          {% if item.description %}
+            <p class="card-text">
+              {{ item.description }}
+            </p>
+          {% endif %}
+          {% if item.by %}
+            <p class="card-text text-muted small">
+              {% if item.href %}
+                Photo by <a href="{{ item.href }}">{{ item.by }}</a>
+              {% else %}
+                Photo by {{ item.by }}
+              {% endif %}
+            </p>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>
