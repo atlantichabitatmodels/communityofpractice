@@ -26,6 +26,7 @@ permalink: /best-practices/
 
 ## Other relevant documents
 
+- [Document to hold content for working group reporting](https://docs.google.com/document/d/1vcPZxa5hLjyLlJGYTeJX1LAsIbS5cK80EM2WwLzvUeQ/edit?usp=sharing)
 - [Notes from the January CoP meeting Model Developers breakout room](https://docs.google.com/document/d/1FXoo42RfC8Z5SdYJSiiHDE1FaHVum8tPZl1oPHpHyHI/edit?usp=sharing)
 
 ## Best Practices - Motivations
