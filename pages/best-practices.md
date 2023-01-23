@@ -10,8 +10,8 @@ permalink: /best-practices/
 
 ## Draft FAQs Document
 
-[Google Doc to hold draft FAQs](https://docs.google.com/document/d/1wx3P542CdovUbkNuaawxAS9MlH7bXVbAFjAhGLmUY4E/edit?usp=sharing)
-[Google Doc from the SDM Workshop with FAQ answers](https://docs.google.com/document/d/1B2nS2TBpZknkbwvNwEjr9rYklHyvHOYMrury1-Rvprc/edit?usp=sharing)
+- [Google Doc to hold draft FAQs](https://docs.google.com/document/d/1wx3P542CdovUbkNuaawxAS9MlH7bXVbAFjAhGLmUY4E/edit?usp=sharing)
+- [Google Doc from the SDM Workshop with FAQ answers](https://docs.google.com/document/d/1B2nS2TBpZknkbwvNwEjr9rYklHyvHOYMrury1-Rvprc/edit?usp=sharing)
 
 ## Meeting notes
 - [January meeting](https://docs.google.com/document/d/1kHVrfB7m8cqgECG9tioXyxkie0ory2RQZHnc71dumH8/edit?usp=sharing)
