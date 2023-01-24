@@ -8,17 +8,18 @@ permalink: /data-sharing/
 ---
 
 ## Documents
-- [Google Doc Draft Data Sharing Best Practices](https://docs.google.com/document/d/1AQB3v6CRYfkijjXA-h4zxZPIJtfSjP_pZ5oguILl8Qs/edit?usp=sharing)
+- [Google Doc Draft Data Sharing Recommendations](https://docs.google.com/document/d/1AQB3v6CRYfkijjXA-h4zxZPIJtfSjP_pZ5oguILl8Qs/edit?usp=sharing)
 - [Google Doc to record specific data sharing challenges](https://docs.google.com/document/d/1xPL6t1Y2cJHRmwSYd930gU74Y7aYCir1E-47EfSRKzw/edit?usp=sharing)
 - [Working group agreement Google Doc](https://docs.google.com/document/d/1TbDXH8Zh1A-8dK-2mueS6AzB0wGKavdpY6UU5_exPjU/edit?usp=sharing)
 
 
 ## Meeting notes
 
-- [December 2022 working group meeting](https://docs.google.com/document/d/118A3btkiNFbxHVFZIhlo0YDSmh7JM7KGDIA8jJw_P6E/edit?usp=sharing)
-- [November 2022 working group meeting](https://docs.google.com/document/d/1WdCaku-YgdNaMcOQCq0AHQdKPQAKcex8GljmjHJh6YU/edit?usp=sharing)
-- [October 2022 working group meeting](https://docs.google.com/document/d/1DQkpKoyMs6PuIXxrTbHCOx75LGPWZuj1K2UX6IHSadI/edit?usp=sharing)
-- [Spring 2022 working group meeting](https://docs.google.com/document/d/1Gz9-81BK6pi4Seo1ndQOm3Uauqm-mVK_hbV_IEP0cuw/edit?usp=sharing)
+- [January 2023 meeting](https://docs.google.com/document/d/1zaA2dxVK5VB2ZT7ErKYs5EpjSQWh66tN8yR25qjgxuw/edit#)
+- [December 2022 meeting](https://docs.google.com/document/d/118A3btkiNFbxHVFZIhlo0YDSmh7JM7KGDIA8jJw_P6E/edit?usp=sharing)
+- [November 2022 meeting](https://docs.google.com/document/d/1WdCaku-YgdNaMcOQCq0AHQdKPQAKcex8GljmjHJh6YU/edit?usp=sharing)
+- [October 2022 meeting](https://docs.google.com/document/d/1DQkpKoyMs6PuIXxrTbHCOx75LGPWZuj1K2UX6IHSadI/edit?usp=sharing)
+- [Spring 2022 meeting](https://docs.google.com/document/d/1Gz9-81BK6pi4Seo1ndQOm3Uauqm-mVK_hbV_IEP0cuw/edit?usp=sharing)
 
 
 ## Other relevant documents
