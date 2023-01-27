@@ -7,6 +7,6 @@ categories: [SDM, Workshop, Knowledge Sharing]
 comments: false
 ---
 
-[Head to the Westwood Lab website to read the blog post.(https://westwoodlab.ca/2023/01/23/westwood-lab-in-partnership-with-ac-cdc-hosts-workshop-to-address-the-knowledge-gaps-barriers-and-challenges-of-species-distribution-modelling/)]
+[Head to the Westwood Lab website to read the blog post.](https://westwoodlab.ca/2023/01/23/westwood-lab-in-partnership-with-ac-cdc-hosts-workshop-to-address-the-knowledge-gaps-barriers-and-challenges-of-species-distribution-modelling/)
 
 Photo by Alana Westwood.
