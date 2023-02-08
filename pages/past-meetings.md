@@ -10,6 +10,11 @@ height: 70vh
 
 This page will be used to document past community of practice meetings.
 
+
+#### January 2023
+
+The Julie Lee-Yaw lab visited us to talk about the limitations of SDMs and their work testing the impacts of modeling decisions on predictions and accuracy. 
+
 ### November 2022
 
 Meeting theme: building pseudo SAR habitat models.
