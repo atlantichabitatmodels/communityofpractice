@@ -18,6 +18,8 @@ toc: true
 
 [Araújo, Miguel B., et al. "Standards for distribution models in biodiversity assessments." Science Advances 5.1 (2019): eaat4858.](https://www.science.org/doi/pdf/10.1126/sciadv.aat4858)
 
+[MaxEnt Best Practices by Tyler Smith](https://plantarum.ca/notebooks/maxent/)
+
 ## Communities
 
 [GBIF Data Use Club](https://www.gbif.org/data-use-club)
