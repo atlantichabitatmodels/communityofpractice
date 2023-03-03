@@ -3,7 +3,7 @@ title: Evaluating presence-absence species distribution models
 description: 
 background: assets/images/tyler-jamieson-moulton-f7RBuaamMGg-unsplash.jpg
 permalink: /model-verification-validation/
-toc: false
+toc: true
 comments: true
 ---
 
