@@ -13,6 +13,8 @@ This page will be used to document past community of practice meetings.
 ### February 2023
 Kellina Higgins helped us understand how to design surveys for effective models.
 
+- You can find her presentation [here](../assets/presentations/Presentation_StatisticalMethods_PeltHyd_KLHiggins_20230224_upload.pdf).
+
 #### Field data to predictions with statistics in between: linking Eastern waterfan observations to landscape attributes
 
 Ecological field data can come in many forms: systematic experimental designs with set variables recorded (ecological studies), opportunistic observations (citizen science), surveys to detect species (botanical surveys) and more. Each form of data is valuable in its own way yet has its own limits. Sometimes data recorded for one purpose can be used in another context. Here, data collected with the objective of detecting populations of Eastern Waterfan (Peltigera hydrothyria) was used in predictive modelling to estimate the probability of its occurrence and its density across the landscape in and around Fundy National Park.

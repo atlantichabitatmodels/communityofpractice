@@ -12,10 +12,7 @@ height: 100vh
 ## Welcome to the Atlantic Canada Species At Risk Habitat Modelling Community of Practice
 
 {: .alert .alert-info}
-Photos of the Westwood Lab 2023 SDM Workshop have been posted [here](sdm-workshop-photos)!
-
-{: .alert .alert-info}
-‘Skills building’ is an important objective of this community of practice. Who should we contact to facilitate training? Please contact [Jocelyn](team) if you, someone in your group, or another organization might have people and time to commit to delivering a 1-hour workshop to our group in the Fall.
+The presentation that Kellina Higgins delivered to us last month has been posted [here](../assets/presentations/Presentation_StatisticalMethods_PeltHyd_KLHiggins_20230224_upload.pdf)!
 
 
 ## Goals
