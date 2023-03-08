@@ -1,7 +1,9 @@
 ---
 title: Directory
 description: A listing of people and their expertise
-background: assets/workshop-photos-2023/IMG_8565.jpg
+background: 
+    img: assets/workshop-photos-2023/IMG_8565.jpg
+    by: Alana Westwood
 permalink: /directory/
 ---
 

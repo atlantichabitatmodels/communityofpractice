@@ -1,7 +1,10 @@
 ---
 title: Contributing to the website
 description: Anyone can contribute to the website. Whether it is [reporting an issue](#how-do-i-report-an-issue) or [writing content](#how-do-i-edit-content), any help in keeping the website up to date and relevant is helpful. This page explains how.
-background: /assets/images/patrice-bouchard-Wq0tdsvq5_4-unsplash.jpg
+background: 
+    img: /assets/images/patrice-bouchard-Wq0tdsvq5_4-unsplash.jpg
+    by: Patrice Bouchard
+    href: https://unsplash.com/@patriceb
 permalink: /contribute/
 ---
 

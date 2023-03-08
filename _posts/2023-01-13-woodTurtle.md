@@ -1,9 +1,11 @@
 ---
 title: "Model Spotlight: Developing species distribution models for Wood Turtle (Glyptemys insculpta) in Atlantic Canada"
 description: The wood turtle, Glyptemys insculpta, is listed as threatened federally in Canada and provincially in Nova Scotia and New Brunswick
-background: /assets/images/20210617_165520.jpg
+background: 
+    img: /assets/images/20210617_165520.jpg
+    by: Thomas Baker
 author: [Thomas Baker, Karen Beazley, and Lisa Doucette]
-categories: [Model Spotlight, SDM, Nova Scotia, New Brunswick, Species at Risk, Wood Turtle, Glyptemys insculpta]
+tags: [Model Spotlight, SDM, Nova Scotia, New Brunswick, Species at Risk, Wood Turtle, Glyptemys insculpta]
 comments: false
 ---
 
@@ -32,5 +34,3 @@ Model details:
 | dataSensitivity      | sensitive                                                                                                                                                                                           |
 | dataUseRestrictions  |         to be determined, output sharing with reputable   organizations likely possible but dependent upon data sharing agreements with   relevant provincial departments (NS DNRR and NB DNRED)    |
 
-Photo by Thomas Baker.
-  

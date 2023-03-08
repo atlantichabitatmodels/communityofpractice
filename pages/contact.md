@@ -1,9 +1,10 @@
 ---
 title: Communication
 description: How can I get in touch with the Atlantic Canada Species At Risk Habitat Modelling Community of Practice? 
-background: assets/images/elyse-turton-46QNWGT1PzM-unsplash.jpg
-imageLicense: |
-  Photo by [Elyse Turton](https://unsplash.com/@elyseturton?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/@elyseturton?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)  
+background:
+  img: assets/images/elyse-turton-46QNWGT1PzM-unsplash.jpg
+  by: Elyse Turton
+  href: https://unsplash.com/@elyseturton?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
 permalink: /contact/
 ---
 

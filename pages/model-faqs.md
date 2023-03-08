@@ -1,7 +1,10 @@
 ---
 title: Modelling Best Practices Frequently Asked Questions
 description: 
-background: assets/images/inaki-del-olmo-NIJuEQw0RKg-unsplash.jpg
+background: 
+    img: assets/images/inaki-del-olmo-NIJuEQw0RKg-unsplash.jpg
+    by: Iñaki del Olmo
+    href: https://unsplash.com/@inakihxz
 permalink: /model-faqs/
 toc: true
 ---

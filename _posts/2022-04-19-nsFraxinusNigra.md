@@ -1,9 +1,12 @@
 ---
 title: "Model Spotlight: Species Distribution Model for Fraxinus nigra (Wisqoq; Black Ash)"
 description: Fraxinus nigra is an ecologically and culturally important species facing imminent threats
-background: /assets/images/iNat97730535.jpeg
+background: 
+    img: /assets/images/iNat97730535.jpeg
+    by: Pierre Cartier
+    href: https://www.inaturalist.org/people/pcartier
 author: [Jocelyn Pender]
-categories: [Model Spotlight, SDM, Nova Scotia, Species at Risk, Fraxinus nigra, Wisqoq, Black Ash]
+tags: [Model Spotlight, SDM, Nova Scotia, Species at Risk, Fraxinus nigra, Wisqoq, Black Ash]
 comments: false
 ---
 
@@ -43,5 +46,4 @@ Model details:
 | Data location inputs      | AC CDC                                                                                              |
 | Data location outputs     | AC CDC                                                                                              |
 
-Photo by [Pierre Cartier](https://www.inaturalist.org/people/pcartier).
   
