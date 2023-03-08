@@ -2,7 +2,7 @@
 title: Evaluating presence-absence species distribution models
 description: 
 background: assets/images/tyler-jamieson-moulton-f7RBuaamMGg-unsplash.jpg
-permalink: /model-verification-validation/
+permalink: /faqs/model-verification-validation/
 toc: true
 comments: true
 ---
@@ -11,7 +11,7 @@ comments: true
 # Evaluating presence-absence species distribution models
 By: Robert Buchkowski
 
-## Introduction:
+## Introduction
 
 Species distribution models are one of the most common models used in biodiversity and ecological research. Consequently, there are an overwhelming number of pre-reviewed papers describing how models should be evaluated and best practices are changing rapidly. This makes it hard for non-specialists to know where to begin.
 
@@ -19,7 +19,7 @@ The goal here is to provide a short summary of key steps to take to evaluate a s
 
 Readers interested in the details can find them in the cited papers and many others.
 
-## Basics:
+## Basics
 
 When an SDM is being used for interpolation or hypothesis generation, basic evaluation techniques are sufficient. The goal of these techniques is to confirm that model assumptions are met and that the final coefficients are predicting important effects consistent with our understand of the species natural history.
 
@@ -31,7 +31,7 @@ Third, some model fit statistics should be used to evaluate the results. These a
 
 Finally, some form of cross-validation, where subsets of the data are withheld when fitting the model and then the model is used to predict those data, is standard in species distribution modelling. This cross-validation is often interpreted using statistics derived from the confusion matrix, such as true skill statistic, Kappa, etc. The area under the receiver operating characteristic curve (AUC), or a recently proposed variant called uniform AUC, is a controversial but very common metric to validate SDMs.
 
-## Advanced:
+## Advanced
 
 More rigorous evaluation techniques are necessary when an SDM is being used to predict outside the range of the data, such as in the case of an invasive species, range expansion, or into the future (i.e., projection). Two additional strategies can help confirm the reliability of an SDM model but go beyond the basics often used in published SDMs: validation using spatially and temporally independent data sets and comparison of coefficient values or effect sizes across model versions.
 
@@ -39,7 +39,7 @@ First, the ‘gold standard’ (*sensu* Araújo et al. 2019) for evaluating SDMs
 
 A second technique is to compare coefficient values or effect sizes in multiple model versions. The simplest version of this is to run GLMs and GAMs with all possible coefficients and look for ones whose coefficient value remains consistent across model versions. This technique reduces the chances that non-mechanistic variables will be included in the model, but also increases the chance that mechanistic variables will be excluded because they correlate with other variables that are unrelated to a species distribution. Regardless, projecting species distribution with fewer mechanisms and higher uncertainty is arguably preferable to inaccurate projections with artificially high confidence intervals. The most comprehensive version of this technique would be to develop multiple models using different statistical approaches and compare the effect sizes of different variables. The output of this analysis could be ensemble modelling or model averaging or a qualitative discussion about which effects were consistent across model versions.
 
-## Some relevant literature:
+## Some relevant literature
 
 * Abdulwahab, U. A., Hammill, E., & Hawkins, C. P. (2022). Choice of climate data affects theperformance and interpretation of species distribution models. Ecological Modelling, 471,110042. https://doi.org/10.1016/j.ecolmodel.2022.110042
 * Araújo, M. B., Anderson, R. P., Márcia Barbosa, A., Beale, C. M., Dormann, C. F., Early, R., Garcia,R. A., Guisan, A., Maiorano, L., Naimi, B., O’Hara, R. B., Zimmermann, N. E., & Rahbek, C.(2019). Standards for distribution models in biodiversity assessments. Science Advances, 5(1),eaat4858. https://doi.org/10.1126/sciadv.aat4858

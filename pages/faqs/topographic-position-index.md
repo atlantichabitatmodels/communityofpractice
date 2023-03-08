@@ -2,7 +2,7 @@
 title: When/How to Use Topographic Position Index (TPI) as a Habitat Covariate
 description: 
 background: assets/images/tyler-jamieson-moulton-f7RBuaamMGg-unsplash.jpg
-permalink: /topographic-position-index/
+permalink: /faqs/topographic-position-index/
 toc: true
 comments: true
 ---
