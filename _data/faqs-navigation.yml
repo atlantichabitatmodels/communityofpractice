@@ -1,0 +1,12 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: "Modelling Frequently Asked Questions" # Note that users can reach the homepage by clicking the site's title on the left in the navbar
+  href: /model-faqs/
+- text: FAQs
+  menu:
+  - text: How can we verify or validate the model we’ve built?
+    href: /faqs/model-verification-validation/
+  - text: When is it appropriate to use Topographic Position Index (TPI) as a habitat covariate?
+    href: /faqs/topographic-position-index/
+- text: Authors
+  href: true

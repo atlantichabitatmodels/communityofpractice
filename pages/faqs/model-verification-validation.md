@@ -1,7 +1,10 @@
 ---
-title: Evaluating presence-absence species distribution models
+title: How can we verify or validate the model we’ve built?
 description: 
-background: assets/images/tyler-jamieson-moulton-f7RBuaamMGg-unsplash.jpg
+background: 
+    img: assets/images/iNat15356893.jpeg
+    by: Dr. Sean Haughian
+    href: https://inaturalist.ca/people/seanhaughian
 permalink: /faqs/model-verification-validation/
 toc: true
 comments: true
@@ -9,10 +12,10 @@ navigation: faqs-navigation
 ---
 
 
-# Evaluating presence-absence species distribution models
+## Evaluating presence-absence species distribution models
 By: Robert Buchkowski
 
-## Introduction
+### Introduction
 
 Species distribution models are one of the most common models used in biodiversity and ecological research. Consequently, there are an overwhelming number of pre-reviewed papers describing how models should be evaluated and best practices are changing rapidly. This makes it hard for non-specialists to know where to begin.
 
@@ -20,7 +23,7 @@ The goal here is to provide a short summary of key steps to take to evaluate a s
 
 Readers interested in the details can find them in the cited papers and many others.
 
-## Basics
+### Basics
 
 When an SDM is being used for interpolation or hypothesis generation, basic evaluation techniques are sufficient. The goal of these techniques is to confirm that model assumptions are met and that the final coefficients are predicting important effects consistent with our understand of the species natural history.
 
@@ -32,7 +35,7 @@ Third, some model fit statistics should be used to evaluate the results. These a
 
 Finally, some form of cross-validation, where subsets of the data are withheld when fitting the model and then the model is used to predict those data, is standard in species distribution modelling. This cross-validation is often interpreted using statistics derived from the confusion matrix, such as true skill statistic, Kappa, etc. The area under the receiver operating characteristic curve (AUC), or a recently proposed variant called uniform AUC, is a controversial but very common metric to validate SDMs.
 
-## Advanced
+### Advanced
 
 More rigorous evaluation techniques are necessary when an SDM is being used to predict outside the range of the data, such as in the case of an invasive species, range expansion, or into the future (i.e., projection). Two additional strategies can help confirm the reliability of an SDM model but go beyond the basics often used in published SDMs: validation using spatially and temporally independent data sets and comparison of coefficient values or effect sizes across model versions.
 
@@ -40,18 +43,18 @@ First, the ‘gold standard’ (*sensu* Araújo et al. 2019) for evaluating SDMs
 
 A second technique is to compare coefficient values or effect sizes in multiple model versions. The simplest version of this is to run GLMs and GAMs with all possible coefficients and look for ones whose coefficient value remains consistent across model versions. This technique reduces the chances that non-mechanistic variables will be included in the model, but also increases the chance that mechanistic variables will be excluded because they correlate with other variables that are unrelated to a species distribution. Regardless, projecting species distribution with fewer mechanisms and higher uncertainty is arguably preferable to inaccurate projections with artificially high confidence intervals. The most comprehensive version of this technique would be to develop multiple models using different statistical approaches and compare the effect sizes of different variables. The output of this analysis could be ensemble modelling or model averaging or a qualitative discussion about which effects were consistent across model versions.
 
-## Some relevant literature
+### Some relevant literature
 
-* Abdulwahab, U. A., Hammill, E., & Hawkins, C. P. (2022). Choice of climate data affects theperformance and interpretation of species distribution models. Ecological Modelling, 471,110042. https://doi.org/10.1016/j.ecolmodel.2022.110042
-* Araújo, M. B., Anderson, R. P., Márcia Barbosa, A., Beale, C. M., Dormann, C. F., Early, R., Garcia,R. A., Guisan, A., Maiorano, L., Naimi, B., O’Hara, R. B., Zimmermann, N. E., & Rahbek, C.(2019). Standards for distribution models in biodiversity assessments. Science Advances, 5(1),eaat4858. https://doi.org/10.1126/sciadv.aat4858
-* Araújo, M. B., & Guisan, A. (2006). Five (or so) challenges for species distribution modelling.Journal of Biogeography, 33(10), 1677–1688. https://doi.org/10.1111/j.1365-2699.2006.01584.x
-* Bryn, A., Bekkby, T., Rinde, E., Gundersen, H., & Halvorsen, R. (2021). Reliability in DistributionModeling—A Synthesis and Step-by-Step Guidelines for Improved Practice. Frontiers inEcology and Evolution, 9, 658713. https://doi.org/10.3389/fevo.2021.658713
-* Dormann, C. F., Schymanski, S. J., Cabral, J., Chuine, I., Graham, C., Hartig, F., Kearney, M., Morin,X., Römermann, C., Schröder, B., & Singer, A. (2012). Correlation and process in speciesdistribution models: Bridging a dichotomy: Bridging the correlation-process dichotomy. Journalof Biogeography, 39(12), 2119–2131. https://doi.org/10.1111/j.1365-2699.2011.02659.x
-* Hijmans, R. J. (2012). Cross-validation of species distribution models: Removing spatial sorting biasand calibration with a null model. Ecology, 93(3), 679–688. https://doi.org/10.1890/11-0826.1
-* Jiménez‐Valverde, A. (2022). The uniform AUC: Dealing with the representativeness effect inpresence–absence models. Methods in Ecology and Evolution, 13(6), 1224–1236.https://doi.org/10.1111/2041-210X.13826
-* Leroux, S. J. (2019). On the prevalence of uninformative parameters in statistical models applyingmodel selection in applied ecology. PLOS ONE, 14(2), e0206711.https://doi.org/10.1371/journal.pone.0206711
-* Lobo, J. M., Jiménez-Valverde, A., & Real, R. (2008). AUC: A misleading measure of theperformance of predictive distribution models. Global Ecology and Biogeography, 17(2), 145–151. https://doi.org/10.1111/j.1466-8238.2007.00358.x
-* Mouton, A. M., De Baets, B., & Goethals, P. L. M. (2010). Ecological relevance of performancecriteria for species distribution models. Ecological Modelling, 221(16), 1995–2002.https://doi.org/10.1016/j.ecolmodel.2010.04.017
-* Westwood, R., Westwood, A. R., Hooshmandi, M., Pearson, K., LaFrance, K., & Murray, C. (2020).A field‐validated species distribution model to support management of the critically endangeredPoweshiek skipperling ( OARISMA POWESHIEK ) butterfly in Canada. Conservation Science andPractice, 2(3). https://doi.org/10.1111/csp2.163
-* Zurell, D., Franklin, J., König, C., Bouchet, P. J., Dormann, C. F., Elith, J., Fandos, G., Feng, X.,Guillera‐Arroita, G., Guisan, A., Lahoz‐Monfort, J. J., Leitão, P. J., Park, D. S., Peterson, A. T.,Rapacciuolo, G., Schmatz, D. R., Schröder, B., Serra‐Diaz, J. M., Thuiller, W., … Merow, C.(2020). A standard protocol for reporting species distribution models. Ecography, 43(9), 1261–1277. https://doi.org/10.1111/ecog.04960
-* Zuur, A. F., Ieno, E. N., Walker, N., Saveliev, A. A., & Smith, G. M. (2009). Mixed effects modelsand extensions in ecology with R. Springer New York. https://doi.org/10.1007/978-0-387-87458-6
+* Abdulwahab, U. A., Hammill, E., & Hawkins, C. P. (2022). Choice of climate data affects theperformance and interpretation of species distribution models. Ecological Modelling, 471,110042. <https://doi.org/10.1016/j.ecolmodel.2022.110042>
+* Araújo, M. B., Anderson, R. P., Márcia Barbosa, A., Beale, C. M., Dormann, C. F., Early, R., Garcia,R. A., Guisan, A., Maiorano, L., Naimi, B., O’Hara, R. B., Zimmermann, N. E., & Rahbek, C.(2019). Standards for distribution models in biodiversity assessments. Science Advances, 5(1),eaat4858. <https://doi.org/10.1126/sciadv.aat4858>
+* Araújo, M. B., & Guisan, A. (2006). Five (or so) challenges for species distribution modelling.Journal of Biogeography, 33(10), 1677–1688. <https://doi.org/10.1111/j.1365-2699.2006.01584.x>
+* Bryn, A., Bekkby, T., Rinde, E., Gundersen, H., & Halvorsen, R. (2021). Reliability in DistributionModeling—A Synthesis and Step-by-Step Guidelines for Improved Practice. Frontiers inEcology and Evolution, 9, 658713. <https://doi.org/10.3389/fevo.2021.658713>
+* Dormann, C. F., Schymanski, S. J., Cabral, J., Chuine, I., Graham, C., Hartig, F., Kearney, M., Morin,X., Römermann, C., Schröder, B., & Singer, A. (2012). Correlation and process in speciesdistribution models: Bridging a dichotomy: Bridging the correlation-process dichotomy. Journalof Biogeography, 39(12), 2119–2131. <https://doi.org/10.1111/j.1365-2699.2011.02659.x>
+* Hijmans, R. J. (2012). Cross-validation of species distribution models: Removing spatial sorting biasand calibration with a null model. Ecology, 93(3), 679–688. <https://doi.org/10.1890/11-0826.1>
+* Jiménez‐Valverde, A. (2022). The uniform AUC: Dealing with the representativeness effect inpresence–absence models. Methods in Ecology and Evolution, 13(6), 1224–1236. <https://doi.org/10.1111/2041-210X.13826>
+* Leroux, S. J. (2019). On the prevalence of uninformative parameters in statistical models applyingmodel selection in applied ecology. PLOS ONE, 14(2), e0206711. <https://doi.org/10.1371/journal.pone.0206711>
+* Lobo, J. M., Jiménez-Valverde, A., & Real, R. (2008). AUC: A misleading measure of theperformance of predictive distribution models. Global Ecology and Biogeography, 17(2), 145–151. <https://doi.org/10.1111/j.1466-8238.2007.00358.x>
+* Mouton, A. M., De Baets, B., & Goethals, P. L. M. (2010). Ecological relevance of performancecriteria for species distribution models. Ecological Modelling, 221(16), 1995–2002. <https://doi.org/10.1016/j.ecolmodel.2010.04.017>
+* Westwood, R., Westwood, A. R., Hooshmandi, M., Pearson, K., LaFrance, K., & Murray, C. (2020).A field‐validated species distribution model to support management of the critically endangeredPoweshiek skipperling ( OARISMA POWESHIEK ) butterfly in Canada. Conservation Science andPractice, 2(3). <https://doi.org/10.1111/csp2.163>
+* Zurell, D., Franklin, J., König, C., Bouchet, P. J., Dormann, C. F., Elith, J., Fandos, G., Feng, X.,Guillera‐Arroita, G., Guisan, A., Lahoz‐Monfort, J. J., Leitão, P. J., Park, D. S., Peterson, A. T.,Rapacciuolo, G., Schmatz, D. R., Schröder, B., Serra‐Diaz, J. M., Thuiller, W., … Merow, C.(2020). A standard protocol for reporting species distribution models. Ecography, 43(9), 1261–1277. <https://doi.org/10.1111/ecog.04960>
+* Zuur, A. F., Ieno, E. N., Walker, N., Saveliev, A. A., & Smith, G. M. (2009). Mixed effects modelsand extensions in ecology with R. Springer New York. <https://doi.org/10.1007/978-0-387-87458-6>

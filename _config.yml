@@ -42,9 +42,12 @@ exclude:
 
 # FRONTMATTER DEFAULTS
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       permalink: "/blog/:slug/"   # Use /blog/yyyy/{filename}/ as permalink for all posts
+  - scope:
+      path: "faqs/"
+    values:
+      navigation: "faqs-navigation"
