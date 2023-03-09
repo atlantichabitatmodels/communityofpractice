@@ -1,6 +1,6 @@
 ---
 title: Modelling Best Practices Frequently Asked Questions
-description: 
+description: These FAQs will tackle the thorny issues that plague model builders and draw on the combined expertise of the working group 
 background: 
     img: assets/images/inaki-del-olmo-NIJuEQw0RKg-unsplash.jpg
     by: Iñaki del Olmo
