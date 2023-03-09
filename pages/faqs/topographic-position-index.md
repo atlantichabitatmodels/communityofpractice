@@ -41,7 +41,7 @@ A processing cell with the default annulus neighborhood (inner radius = 1 cell, 
 #### Q. what are appropriate definitions of the inner and outer radii (irad and orad, respectively) in the case of the first formula? What about for the second formula? In my experience, if we’re going with a minimum inner radius (e.g., 1m) why not just use a circular neighbourhood and be done with it? 
 
 * Sample analysis suggests that TPI reveals much the same as slope, but with some differences. Seems adapt at picking up ridge edges.
-* The following example illustrates difference between TPI and slope:
+* The following example illustrates the difference between TPI and slope:
 
 {:.col-md-6 .mx-auto}
 ![TPI Picture 1](../../assets/images/tpiPicture1.jpg)![TPI Picture 2](../../assets/images/tpiPicture2.jpg)

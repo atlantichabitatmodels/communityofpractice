@@ -1,6 +1,6 @@
 ---
 title: Best Practices Working Group
-description: 
+description: A Working Group dedicated to improving the efficiency of Species At Risk models in Atlantic Canada
 background:
   img: assets/images/elyse-turton-46QNWGT1PzM-unsplash.jpg
   by: Elyse Turton
