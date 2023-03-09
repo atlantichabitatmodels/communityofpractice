@@ -1,6 +1,7 @@
 ---
 title: When is it appropriate to use Topographic Position Index (TPI) as a habitat covariate? How should the data be processed for use in models (e.g., raw data or categories)?
 description: 
+layout: math-page
 background: 
     img: assets/images/tyler-jamieson-moulton-f7RBuaamMGg-unsplash.jpg
     by: Tyler Jamieson Moulton
