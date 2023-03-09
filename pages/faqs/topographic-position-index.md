@@ -39,13 +39,18 @@ The previous was applied in ArcGIS using the focal statistics tool for an area o
 ![ESRI documentation](https://pro.arcgis.com/en/pro-app/latest/arcpy/spatial-analyst/GUID-D21D815C-FEE7-40D2-A4F7-3A8B4E580DBE-web.png){: .rounded .float-center}
 A processing cell with the default annulus neighborhood (inner radius = 1 cell, outer radius = 3 cells).
 
-#### Q. what are appropriate definitions of the inner and outer radii (irad and orad, respectively) in the case of the first formula? What about for the second formula? In my experience, if we’re going with a minimum inner radius (e.g., 1m) why not just use a circular neighbourhood and be done with it? 
+#### Q. What are appropriate definitions of the inner and outer radii (irad and orad, respectively) in the case of the first formula? What about for the second formula? In my experience, if we’re going with a minimum inner radius (e.g., 1m) why not just use a circular neighbourhood and be done with it? 
 
 * Sample analysis suggests that TPI reveals much the same as slope, but with some differences. Seems adapt at picking up ridge edges.
 * The following example illustrates the difference between TPI and slope:
 
-{:.col-md-6 .mx-auto}
-![TPI Picture 1](../../assets/images/tpiPicture1.jpg)![TPI Picture 2](../../assets/images/tpiPicture2.jpg)
+
+
+Slope            |  TPI
+:-------------------------:|:-------------------------:
+![TPI Picture 1](../../assets/images/tpiPicture1.jpg){:.col-md-12 .mx-auto}  |  ![TPI Picture 2](../../assets/images/tpiPicture2.jpg){:.col-md-12 .mx-auto}
+
+
 
 
 * Bale et al. (2020) point out that low points in topography can act to pool cool air and potentially provide microclimatic “refugia” in the face of climate warming. Alternatively, in significantly mountainous landscapes, atmospheric lapse rate and orographic effects can be expected to result in cooler, potentially wetter locations at upper elevation (depending upon orientation relative to prevailing wind).
