@@ -1,0 +1,8 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: "Best Practices Working Group" # Note that users can reach the homepage by clicking the site's title on the left in the navbar
+  href: /best-practices-wg-landing-page/
+- text: Documents
+  href: best-practices
+- text: Working Group Members
+  href: best-practices-wg-team
