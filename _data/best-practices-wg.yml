@@ -9,6 +9,13 @@
   email: robert.buchkowski@nrcan-rncan.ca
   googlescholar: tOJLtZsAAAAJ
 
+- name: Courtney Burk
+  role: Working Group member
+  image: 
+  description: > # Can be Markdown
+    Courtney Burk is a wildlife connectivity and conservation planning specialist with expertise in ecological and connectivity modelling, RPAS basic pilot, GIS, R and Python.
+  email: courtney.burk@hotmail.com
+
 - name: Dr. Alana Westwood
   role: Working Group member
   image: https://westwoodlab.files.wordpress.com/2021/01/alana-westwood-headshot-square.jpg?w=1024
@@ -16,13 +23,6 @@
     Dr. Alana Westwood has expertise in Maxent, Log-linear regression and conservation prioritization algorithms (Zonation). She is an Assistant Professor at the School for Resource and Environmental Studies at Dalhousie University.
   email: a.westwood@dal.ca
   googlescholar: UUylCg8AAAAJ
-
-- name: Courtney Burk
-  role: Working Group member
-  image: 
-  description: > # Can be Markdown
-    Courtney Burk is a wildlife connectivity and conservation planning specialist with expertise in ecological and connectivity modelling, RPAS basic pilot, GIS, R and Python.
-  email: courtney.burk@hotmail.com
 
 - name: Dr. David Lieske
   role: Former Working Group member
