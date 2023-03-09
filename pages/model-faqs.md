@@ -6,7 +6,7 @@ background:
     by: Iñaki del Olmo
     href: https://unsplash.com/@inakihxz
 permalink: /model-faqs/
-toc: true
+toc: false
 navigation: faqs-navigation # Looks for navigation in _data/custom-navigation.yml or .yaml or .json
 ---
 
