@@ -13,7 +13,7 @@ navigation: faqs-navigation
 
 ## When/How to Use Topographic Position Index (TPI) as a Habitat Covariate
 
-By: David Lieske
+By: [David Lieske]({{ 'best-practices-wg-team/#Dr.+David+Lieske' | relative_url }})
 
 ### Interpreting Topography
 * The objective with this is to ascertain where the “high” and “low” points are in the landscape (assuming there are any and they aren’t just a flat, low elevation, flood-prone slab).

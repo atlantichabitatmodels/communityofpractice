@@ -13,7 +13,7 @@ navigation: faqs-navigation
 
 
 ## Evaluating presence-absence species distribution models
-By: Robert Buchkowski
+By: [Robert Buchkowski]({{ 'best-practices-wg-team/#Dr.+Robert+Buchkowski' | relative_url }})
 
 ### Introduction
 
