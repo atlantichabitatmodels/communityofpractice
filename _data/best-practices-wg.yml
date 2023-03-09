@@ -24,6 +24,14 @@
   email: a.westwood@dal.ca
   googlescholar: UUylCg8AAAAJ
 
+- name: Jocelyn Pender
+  role: Working Group facilitator
+  image: https://avatars.githubusercontent.com/u/16246446?v=4
+  description: > # Can be Markdown
+    Jocelyn sends out meeting invites, updates the website, and establishes working group milestones.
+  github: jocelynpender
+  email: jocelyn.pender@accdc.ca
+
 - name: Dr. David Lieske
   role: Former Working Group member
   image: assets/images/DavePic_19Dec2021.jpg
