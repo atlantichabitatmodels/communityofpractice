@@ -61,7 +61,7 @@ Slope            |  TPI
 
 * <sup>1</sup> Kivtek, Rikk, R. Lampietro, and E. Summers-Morris. 2003. NOAA Technical Report: Integrating spatial data modeling tools for auto-classification and delineation of species-specific habitat maps from high-resolution, digital hydrographic data. Final Report: NOAA Award No. NA17OC2586.
 * Agryriou, A.V., R.M. Teeuw, and A. Sarris. 2017. GIS-based landform classification of Bronze Age archaeological sites on Crete Island. PloSOne 12(2): e0170727.
-* Bale, S., K.F. Beazley, A. Westwood, and P. Bush. 2020. The benefits of using topographic features to predict climate-resilient habitat for migratory forest landbirds: an example for the rusty blackbird, olive-sided flycatcher, and Canada warbler. The Condor 122(1): URL: <https//doiorg/10.1093/condor/duz057>.
+* Bale, S., K.F. Beazley, A. Westwood, and P. Bush. 2020. The benefits of using topographic features to predict climate-resilient habitat for migratory forest landbirds: an example for the rusty blackbird, olive-sided flycatcher, and Canada warbler. The Condor 122(1): URL: <https://doi.org/10.1093/condor/duz057>.
 * DeReu, J., J. Bourgeois, M. Bats, et al. 2013. Application of the topographic position index to heterogeneous landscapes. Geomorphology 186: 39-49. URL: <https://doi.org/10.1016/j.geomorph.2012.12.015>.
 * Weiss, A.D. 2001. Topographic position and landform analysis. The Nature Conservancy, Northwest Division, Seatlle, WA, USA. URL: <http://www.jennessent.com/downloads/tpi-poster-tinc_18x22.pdf>
 * Wilson, M.F.J., B. O’Connell, C. Brown, J.C. Guinan, and A.J. Grehan. 2007. Multiscale terrain analysis of multibeam bathymetry data for habitat mapping on the continental slope. Marine Geodesy 30: 3-35.
