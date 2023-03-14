@@ -37,6 +37,8 @@ toc: true
 
 [ENM section of GBIF data use course](https://docs.gbif.org/course-data-use/en/ecological-niche-models.html)
 
+[Best Practices in Species Distribution Modeling: A Workshop in R](http://www.earthskysea.org/best-practices-in-species-distribution-modeling-a-workshop-in-r/)
+
 ## Scientific Literature
 
 [Etherington, Thomas R. and Lieske, David J. Re: Resampling methods for evaluating classification accuracy of wildlife habitat models. ReScience (2019)](../assets/papers/Etherington&Lieske-ResamplingMethodsforEvalClassAccuracyofWildlifeHabitatModels.pdf)
