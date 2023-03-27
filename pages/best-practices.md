@@ -15,7 +15,8 @@ navigation: best-practices-wg-nav # Looks for navigation in _data/custom-navigat
 - [Google Doc from the SDM Workshop with FAQ answers](https://docs.google.com/document/d/1B2nS2TBpZknkbwvNwEjr9rYklHyvHOYMrury1-Rvprc/edit?usp=sharing)
 
 ## Meeting notes
-- [March 2023 meeting](https://docs.google.com/document/d/1zmNiXbD0hDeZNwe5C8U7KrAAuwcNmu49dXLxmvkKLug/edit?usp=sharing)
+- [March 30 2023 meeting](https://docs.google.com/document/d/1z8fqdMXIMH1fQsRxNdqzKfj7JPUabGjaT4OymYhKFTc/edit?usp=sharing)
+- [March 3 2023 meeting](https://docs.google.com/document/d/1zmNiXbD0hDeZNwe5C8U7KrAAuwcNmu49dXLxmvkKLug/edit?usp=sharing)
 - [January 2023 meeting](https://docs.google.com/document/d/1kHVrfB7m8cqgECG9tioXyxkie0ory2RQZHnc71dumH8/edit?usp=sharing)
 - [December 2022 meeting](https://docs.google.com/document/d/1G7h7wsYz7eDH_hrwZw6TnBCuv4rJS87axTIBqg_sDUY/edit#)
 - [November 2022 meeting](https://docs.google.com/document/d/1MxAWvO1HY82Od4cdKkZ1kiOJ6nA5Vvne_zbQilbd8vU/edit?usp=sharing)
