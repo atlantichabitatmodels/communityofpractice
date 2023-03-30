@@ -12,7 +12,7 @@ comments: true
 navigation: faqs-navigation
 ---
 
-By: [Jocelyn Pender]({{ 'best-practices-wg-team/#Jocelyn+Pender' | relative_url }}), [Robert Buchkowski]({{ 'best-practices-wg-team/#Dr.+Robert+Buchkowski' | relative_url }}), [Courtney Burk]({{ 'best-practices-wg-team/#Courtney+Burk' | relative_url }}), Riley Scanlan, Miranda Frison, Firas, Geneva
+By: [Jocelyn Pender]({{ 'best-practices-wg-team/#Jocelyn+Pender' | relative_url }}), [Robert Buchkowski]({{ 'best-practices-wg-team/#Dr.+Robert+Buchkowski' | relative_url }}), [Courtney Burk]({{ 'best-practices-wg-team/#Courtney+Burk' | relative_url }}), Riley Scanlan, Miranda Frison, Geneva Bahen, Firas
 
 ### Step One: Should You Harmonize Datasets
 
