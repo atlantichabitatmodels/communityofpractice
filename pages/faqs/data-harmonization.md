@@ -2,7 +2,7 @@
 title: How do we harmonize datasets across jurisdictions?
 description: 
 background: 
-    img: landon-parenteau-i5DSEpe-LL0-unsplash.jpg
+    img: assets/images/landon-parenteau-i5DSEpe-LL0-unsplash.jpg
     by: Landon Parenteau
     href: https://unsplash.com/@landonparenteau
   
