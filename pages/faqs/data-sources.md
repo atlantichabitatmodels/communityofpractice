@@ -14,7 +14,7 @@ navigation: faqs-navigation
 
 By: [Jocelyn Pender]({{ 'best-practices-wg-team/#Jocelyn+Pender' | relative_url }}), [Robert Buchkowski]({{ 'best-practices-wg-team/#Dr.+Robert+Buchkowski' | relative_url }}), [Courtney Burk]({{ 'best-practices-wg-team/#Courtney+Burk' | relative_url }}), Riley Scanlan, Miranda Frison, Geneva Bahen, Firas, Data Sharing Working Group
 
-The data sharing working group has developed a data catalogue to facilitate knowledge sharing of existing data sources in Atlantic Canada and their utility for modelling: [atlantichabitatmodels.github.io/data](https://atlantichabitatmodels.github.io/data/). 
+The data sharing working group has developed a data catalogue to facilitate knowledge sharing of existing data sources in Atlantic Canada and their utility for modelling: **[atlantichabitatmodels.github.io/data](https://atlantichabitatmodels.github.io/data/)**. 
 
 We hope that this data catalogue will:
 1. Facilitate awareness of modelling datasets
