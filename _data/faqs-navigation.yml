@@ -4,9 +4,19 @@
   href: /model-faqs/
 - text: FAQs
   menu:
-  - text: How can we verify or validate the model we’ve built?
-    href: /faqs/model-verification-validation/
+  - text: How much species data is enough to build a robust model?
+    href: /faqs/how-much-data/
+  - text: How do we determine appropriate spatial extents and cell size (model resolution)?
+    href: /faqs/spatial-extent-cell-size/
+  - text: What sources (conventional and unconventional) of data can we look to in Atlantic Canada?
+    href: /faqs/data-sources/
+  - text: How do we harmonize datasets across jurisdictions?
+    href: /faqs/data-harmonization/
   - text: When is it appropriate to use Topographic Position Index (TPI) as a habitat covariate?
     href: /faqs/topographic-position-index/
+  - text: How do we calibrate the predicted probability of occurrence/abundance to suitable and/or critical habitat?
+    href: /faqs/thresholds/
+  - text: How can we verify or validate the model we’ve built?
+    href: /faqs/model-verification-validation/
 - text: Authors
   href: best-practices-wg-team
