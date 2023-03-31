@@ -7,10 +7,12 @@ background:
     href: https://inaturalist.ca/people/icbryson
   
 permalink: /faqs/thresholds/
-toc: false
+toc: true
 comments: true
 navigation: faqs-navigation
 ---
+
+## How to calibrate the predicted probability of occurrence/abundance to suitable and/or critical habitat
 
 By: [Courtney Burk]({{ 'best-practices-wg-team/#Courtney+Burk' | relative_url }}), [Alana Westwood]({{ 'best-practices-wg-team/#Dr.+Alana+Westwood' | relative_url }}), [Robert Buchkowski]({{ 'best-practices-wg-team/#Dr.+Robert+Buchkowski' | relative_url }}), Katherine Dearborn, Jordan Thomson, Chris Edge. 
 
@@ -33,8 +35,10 @@ A good rule of thumb is to use independent ground-truthing data to maximize the 
 As a final note: remember to consider purpose and uncertainty with your models! 
 “In any research, we reiterate that it is critical to state the purpose and method for selecting a threshold and to explore the sensitivity of the model to the threshold selected.” 
 For example, if we don’t have great faith in model predictions, we might want to be more rigorous by setting a higher threshold. The degree of uncertainty in the model could influence how conservative we want to be.
----
-## Literature to refer to:
+
+
+## Literature to refer to
+
 Beazley, K., Reining, C., Doran, P., and Bettigole, C.. Integrating site-selection tools and expert judgement for conservation system design in the greater Northern Appalachians of Canada and the United States. <https://www.academia.edu/19649805/INTEGRATING_SITE_SELECTION_TOOLS_AND_EXPERT_JUDGMENT_FOR_CONSERVATION_SYSTEM_DESIGN_IN_THE_GREATER_NORTHERN_APPALACHIANS_OF_CANADA_AND_THE_UNITED_STATES?email_work_card=title>
 
 Bean, W.T., Stafford, R. and Brashares, J.S. (2012), The effects of small sample size and sample bias on threshold selection and accuracy assessment of species distribution models. Ecography, 35: 250-258. <https://doi-org.proxy.hil.unb.ca/10.1111/j.1600-0587.2011.06545.x>

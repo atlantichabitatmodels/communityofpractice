@@ -12,7 +12,7 @@ comments: true
 navigation: faqs-navigation
 ---
 
-## When/How to Use Topographic Position Index (TPI) as a Habitat Covariate
+## When/how to use Topographic Position Index (TPI) as a habitat covariate
 
 By: [David Lieske]({{ 'best-practices-wg-team/#Dr.+David+Lieske' | relative_url }})
 
