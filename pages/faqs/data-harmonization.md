@@ -16,7 +16,7 @@ By: [Jocelyn Pender]({{ 'best-practices-wg-team/#Jocelyn+Pender' | relative_url 
 
 ### Step One: Should You Harmonize Datasets
 
-A preliminary step should precede dataset harmonization: outline (1) the extent of your analysis and (2) the minimum viable resolution of your analysis. This will tell you whether you have to merge datasets and whether those datasets are good enough.
+A preliminary step should precede dataset harmonization: outline (1) the extent of your analysis and (2) the minimum viable resolution of your analysis. This will tell you whether you can or should proceed to dataset harmonization. For instance, if datasets from a certain jurisdiction do not meet the minimum viable resolution, you should not proceed to harmonize. Alternatively, if the species you wish to model occupies a tiny portion of one jurisdiction, it may not be worthwhile to harmonize (i.e., how much of the jurisdiction does the species actually occupy).
 
 ![Step One](../../assets/images/Step1.jpg){:.col-md-8 .mx-auto}
 _An example of step one implementation_
@@ -32,7 +32,7 @@ _An example of step two implementation_
 
 Next, look for those data across multiple data sets. Start with the data set that you know best, but use your method independent description to find all the possible data streams.
 
-Many times there will be multiple options (i.e., do you assign forest type from LiDAR or photo-interpreted images). All options should be tried and evaluated based on their cross-data source agreement or ability to predict dependent variables.
+Many times there will be multiple options (i.e., do you assign forest type from LiDAR or photo-interpreted images). All options should be tried and evaluated based on their cross-data source agreement or ability to predict dependent variables. Remember to consider whether the dataset is measuring what you believe or need it to be measuring!
 
 ![Step Three](../../assets/images/Step3.jpg){:.col-md-8 .mx-auto} 
 _An example of step three implementation_
