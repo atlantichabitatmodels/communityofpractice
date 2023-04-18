@@ -8,7 +8,7 @@ background:
 permalink: /contribute/
 ---
 
-The follownig content is adapted from [TDWG](https://github.com/tdwg/website).
+The following content is adapted from [TDWG](https://github.com/tdwg/website).
 
 ## Reporting issues
 
