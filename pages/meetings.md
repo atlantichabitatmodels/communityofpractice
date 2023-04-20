@@ -10,9 +10,3 @@ height: 70vh
 ---
 ## Community of Practice Monthly Meetings
 ### Upcoming Meeting Themes
-
-#### March 2023
-This meeting will be pushed into April to allow folks with end-of-fiscal deadlines to attend.
-
-
-On April 14th, Maggie MacPherson from the Boreal Avian Modelling Project will discuss how to predict bird distributions under global change.

@@ -11,6 +11,9 @@ height: 70vh
 
 This page will be used to document past community of practice meetings.
 
+#### March 2023
+On April 14th, Maggie MacPherson from the Boreal Avian Modelling Project discussed how to predict bird distributions under global change.
+
 ### February 2023
 Kellina Higgins helped us understand how to design surveys for effective models.
 
