@@ -15,10 +15,6 @@ height: 100vh
 {: .alert .alert-info}
 The Atlantic Canada Species At Risk (SAR) Habitat Modelling Community of Practice best practices working group has developed [species distribution modelling Frequently Asked Questions](https://atlantichabitatmodels.github.io/communityofpractice/model-faqs/) in support of improved SAR modelling products in our region. Please fill out this survey to help us decide how to proceed with further work: <https://forms.gle/vxVqwgqwvGoizGAVA>.
 
-{: .alert .alert-info}
-The presentation that Kellina Higgins delivered to us last month has been posted [here](../assets/presentations/Presentation_StatisticalMethods_PeltHyd_KLHiggins_20230224_upload.pdf)!
-
-
 ## Goals
 
 Our goals are to:
