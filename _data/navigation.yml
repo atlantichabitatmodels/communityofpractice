@@ -13,6 +13,8 @@
     new_window: true
   - text: External Resources
     href: resources
+  - text: Blog
+    href: blog
 - text: Meetings
   menu:
   - text: Upcoming Meetings
