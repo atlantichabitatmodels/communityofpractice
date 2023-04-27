@@ -10,3 +10,5 @@ height: 70vh
 ---
 ## Community of Practice Monthly Meetings
 ### Upcoming Meeting Themes
+
+For the next set of meetings, we'll enjoy model showcases from community members!
