@@ -5,3 +5,5 @@ _site/
 .jekyll-metadata
 .vscode/settings.json
 .DS_Store
+Gemfile
+Gemfile.lock
