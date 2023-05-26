@@ -1,0 +1,37 @@
+
+
+- name: Courtney Baldo
+  role: Working Group member
+  image: assets/images/courtney_baldo.png
+  description: > # Can be Markdown
+    Courtney Baldo is a Species at Risk monitoring biologist at the Nova Scotia Department of Natural Resources and Renewables on the Wildlife: Biodiversity team. She has broad experience in GIS and with ArcGIS tools, in addition to Python, ecological landscape analysis, suitability modelling and species distribution modelling.
+  email: Courtney.Baldo@novascotia.ca
+
+- name: Sarah Hirtle
+  role: Working Group member
+  image: 
+  description: > # Can be Markdown
+    Sarah Hirtle is the Coastal Conservation Coordinator at Island Nature Trust.
+  email: shirtle@islandnaturetrust.ca
+
+- name: Miranda Frison
+  role: Working Group member
+  image: 
+  description: >
+    Miranda is a Geographic Information Systems (GIS) Graduate student at the Centre of Geographic Sciences (COGS).
+  email: miranda.frison@outlook.com
+
+- name: Jocelyn Pender
+  role: Working Group facilitator
+  image: https://avatars.githubusercontent.com/u/16246446?v=4
+  description: > # Can be Markdown
+    Jocelyn sends out meeting invites, updates the website, and establishes working group milestones. She enjoys using MaxEnt, writing clean code and community building. She is a Conservation Data Analyst at the Atlantic Canada Conservation Data Centre.
+  github: jocelynpender
+  email: jocelyn.pender@accdc.ca
+
+- name: Grant Brown
+  role: Former Working Group member
+  image: https://images.unsplash.com/photo-1597378609416-47cc937b294c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=880&q=80
+  description: > # Can be Markdown
+    Grant Brown is an Environmental Analyst at Nova Scotia Public Works.
+  email: grant.brown@novascotia.ca
