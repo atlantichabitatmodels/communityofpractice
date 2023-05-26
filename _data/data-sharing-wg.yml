@@ -1,4 +1,10 @@
-
+- name: Jocelyn Pender
+  role: Working Group facilitator
+  image: https://avatars.githubusercontent.com/u/16246446?v=4
+  description: > # Can be Markdown
+    Jocelyn sends out meeting invites, updates the website, and establishes working group milestones. She enjoys using MaxEnt, writing clean code and community building. She is a Conservation Data Analyst at the Atlantic Canada Conservation Data Centre.
+  github: jocelynpender
+  email: jocelyn.pender@accdc.ca
 
 - name: Courtney Baldo
   role: Working Group member
@@ -20,14 +26,6 @@
   description: >
     Miranda is a Geographic Information Systems (GIS) Graduate student at the Centre of Geographic Sciences (COGS).
   email: miranda.frison@outlook.com
-
-- name: Jocelyn Pender
-  role: Working Group facilitator
-  image: https://avatars.githubusercontent.com/u/16246446?v=4
-  description: > # Can be Markdown
-    Jocelyn sends out meeting invites, updates the website, and establishes working group milestones. She enjoys using MaxEnt, writing clean code and community building. She is a Conservation Data Analyst at the Atlantic Canada Conservation Data Centre.
-  github: jocelynpender
-  email: jocelyn.pender@accdc.ca
 
 - name: Grant Brown
   role: Former Working Group member
