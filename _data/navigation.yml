@@ -6,6 +6,7 @@
   menu:
   - text: Modelling FAQs
     href: model-faqs
+    new_window: true
   - text: Community Directory
     href: directory
   - text: Data Directory
@@ -13,6 +14,7 @@
     new_window: true
   - text: Data Catalogue
     href: https://atlantichabitatmodels.github.io/data/
+    new_window: true
   - text: External Resources
     href: resources
   - text: Blog
@@ -29,6 +31,7 @@
   menu:
   - text: Best Practices Working Group
     href: best-practices-wg-landing-page
+    new_window: true
   - text: Data Sharing Working Group
     href: data-sharing
 - text: Logistics
