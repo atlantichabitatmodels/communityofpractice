@@ -47,6 +47,8 @@ toc: true
 
 [Guisan, Antoine, et al. "Predicting species distributions for conservation decisions." Ecology letters 16.12 (2013): 1424-1435.](https://doi.org/10.1111/ele.12189)
 
+[MacPherson, M.P. et al. 2020 An introduction to predictive distribution modelling for conservation to encourage novel perspectives](https://www.biorxiv.org/content/10.1101/2021.05.26.445867v2)
+
 ## Domain Specific Resources
 
 ### Machine Learning
