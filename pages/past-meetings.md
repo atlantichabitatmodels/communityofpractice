@@ -11,6 +11,10 @@ height: 70vh
 
 This page will be used to document past community of practice meetings.
 
+#### May 2023
+
+Jordy Thomson from DFO (Fisheries and Oceans Canada) walked us through the eelgrass SDM his team developed using the biomod2 package for R! He described the environmental data layers, presence-absence observations and model context.
+
 ### March 2023
 On April 14th, Maggie MacPherson from the Boreal Avian Modelling Project discussed how to predict bird distributions under global change.
 

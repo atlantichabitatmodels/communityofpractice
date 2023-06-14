@@ -22,7 +22,9 @@ To participate, I'd ask that you:
 -	Write a blog post for our website, including but not limited to model metadata and a few sentences about the model product (optional, but very valuable)
 -	Your model(s) can be at the beginning stages, in progress or complete!
 
-#### May 2023
+#### June 2023
 
-Jordy Thomson from DFO (Fisheries and Oceans Canada) will walk us through the eelgrass SDM his team developed using the biomod2 package for R! He will describe the environmental data layers, presence-absence observations and model context.
-This presentation is contingent upon fieldwork demands. In the event that Jordy cannot make this session, Jocelyn will present recent modelling work conducted by the team at AC CDC (Atlantic Canada Conservation Data Centre).
+Community member Rob Cameron (Dalhousie University) will visit us!
+
+##### Exploring Ecological Questions with SDMs: 3 examples using lichens
+SDMs are not only useful for predicting species distribution but also for answering important ecological questions.  We will look at 3 examples of lichen studies that use SDMs to explore ecological patterns and processes. The first example uses SDMs to look at niche differentiation in 4 sympatric species of lichen.  The second example looks at assessing threats to conservation of 2 lichens and third example looks at predicting lichen rich ecosystems.
