@@ -23,6 +23,8 @@ To participate, I'd ask that you:
 -	Your model(s) can be at the beginning stages, in progress or complete!
 
 #### June 2023
+**Cancelled**
+
 
 Community member Rob Cameron (Dalhousie University) will visit us!
 
