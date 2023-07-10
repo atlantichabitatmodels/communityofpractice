@@ -11,7 +11,14 @@ height: 70vh
 
 This page will be used to document past community of practice meetings.
 
-#### May 2023
+### June 2023
+
+CANCELLED: Community member Rob Cameron (Dalhousie University) will visit us!
+
+##### Exploring Ecological Questions with SDMs: 3 examples using lichens
+SDMs are not only useful for predicting species distribution but also for answering important ecological questions.  We will look at 3 examples of lichen studies that use SDMs to explore ecological patterns and processes. The first example uses SDMs to look at niche differentiation in 4 sympatric species of lichen.  The second example looks at assessing threats to conservation of 2 lichens and third example looks at predicting lichen rich ecosystems.
+
+### May 2023
 
 Jordy Thomson from DFO (Fisheries and Oceans Canada) walked us through the eelgrass SDM his team developed using the biomod2 package for R! He described the environmental data layers, presence-absence observations and model context.
 
