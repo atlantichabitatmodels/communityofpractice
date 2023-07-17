@@ -2,7 +2,7 @@
 
 - name: Charity Robicheau
   role: Community of Practice facilitator
-  image: http://accdc.com/images/staff/CR.jpeg
+  image: assets/images/CR.jpeg
   description: > # Can be Markdown
     Charity sends out meeting invites, updates the website, and runs Community of Practice events.
   github: charityrobicheau
