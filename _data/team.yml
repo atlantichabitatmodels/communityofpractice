@@ -1,12 +1,13 @@
 # Project team members listed below will appear on the /team page
 
-- name: Jocelyn Pender
+- name: Charity Robicheau
   role: Community of Practice facilitator
-  image: https://avatars.githubusercontent.com/u/16246446?v=4
+  image: http://accdc.com/images/staff/CR.jpeg
   description: > # Can be Markdown
-    Jocelyn sends out meeting invites, updates the website, and sets up communication channels.
-  github: jocelynpender
-  email: jocelyn.pender@accdc.ca
+    Charity sends out meeting invites, updates the website, and runs Community of Practice events.
+  github: charityrobicheau
+  email: charity.robicheau@accdc.ca
+
 
 - name: James Churchill
   role: Community of Practice facilitator
@@ -15,3 +16,11 @@
     James develops Community of Practice roadmaps, facilitates meetings and oversees community of practice initiatives
   github: jlchurchill
   email: James.Churchill@accdc.ca
+  
+- name: Jocelyn Pender
+  role: Former Community of Practice facilitator
+  image: https://avatars.githubusercontent.com/u/16246446?v=4
+  description: > # Can be Markdown
+    Jocelyn sent out meeting invites, updated the website, and set up communication channels.
+  github: jocelynpender
+  email: jocelyn.pender@accdc.ca
