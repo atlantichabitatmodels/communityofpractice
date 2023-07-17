@@ -31,7 +31,7 @@ Model details:
 | Project name              | Mapping Existing and Potential *Fraxinus nigra* (Black Ash, Wisqoq) Habitat in Mainland Nova Scotia |
 | Project date              | 2022                                                                                                |
 | Project partners          | AC CDC, Parks Canada                                                                                |
-| Primary contact           | jocelyn.pender@accdc.ca, james.churchill@accdc.ca                                                   |
+| Primary contact           | pender.jocelyn@gmail.com, james.churchill@accdc.ca                                                   |
 | Short project description | SDM for Wisqoq (Black Ash, *Fraxinus nigra*) using lidar-derived and other metrics                  |
 | Project documentation     | AC CDC                                                                                              |
 | Province                  | NS                                                                                                  |

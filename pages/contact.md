@@ -10,7 +10,7 @@ permalink: /contact/
 
 ## Regular monthly meetings
 
-Please join us at our monthly meeting! Contact [jocelyn.pender@accdc.ca](mailto:jocelyn.pender@accdc.ca) to be added to the meeting invite.
+Please join us at our monthly meeting! Contact [charity.robicheau@accdc.ca](mailto:charity.robicheau@accdc.ca) to be added to the meeting invite.
 
 ## Email
 
