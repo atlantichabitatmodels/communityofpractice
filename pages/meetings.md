@@ -13,7 +13,7 @@ height: 70vh
 
 For the next set of meetings, we'll enjoy model showcases from community members!
 
-Do you have a model to showcase?! Please reach out to [charity.robicheau@accdc.ca](mailto:charity.robicheau@accdc.ca)!
+Do you have a model to showcase?! Please reach out to [pender.jocelyn@gmail.com](mailto:pender.jocelyn@gmail.com)!
 
 
 To participate, I'd ask that you:
