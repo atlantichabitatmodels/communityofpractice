@@ -12,7 +12,7 @@ height: 70vh
 
 ### February 2024
 
-We are looking forward to reconnecting with everyone on February 23rd from 2 to 4 pm. Meeting invites are coming soon!
+We are looking forward to reconnecting with everyone on February 23rd from 2 to 4 pm. A meeting invite is coming soon!
 ### Upcoming Meeting Themes
 
 For the next set of meetings, we'll enjoy model showcases from community members!
