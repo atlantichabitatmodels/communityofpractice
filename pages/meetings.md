@@ -12,7 +12,14 @@ height: 70vh
 
 ### February 2024
 
-We are looking forward to reconnecting with everyone on February 23rd from 2 to 4 pm. A meeting invite is coming soon!
+We are looking forward to reconnecting with everyone on February 23rd from 2 to 4 pm. A meeting invite has been sent to the distribution list!
+
+#### Model Showcase: Whale Occurrence Model – A Case for the North Atlantic Right Whale
+
+Assessing risk for conservation management purposes requires estimates of the threats facing species and the occurrence of the species in an area. Migratory marine species must often travel through unsuitable habitats to reach important areas such as foraging or mating grounds; therefore, occurrence estimates must consider all areas, regardless of suitable habitat characteristics. In this presentation, I will showcase a model developed to estimate the probability of whale occurrence based on principles of movement ecology and built from systematic and opportunistic sightings. The example will focus on the management case of the critically endangered North Atlantic right whale.
+
+Alexandra Mayette, MSc – Canadian Wildlife Federation
+
 ### Upcoming Meeting Themes
 
 For the next set of meetings, we'll enjoy model showcases from community members!
