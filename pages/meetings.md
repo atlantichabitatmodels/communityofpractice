@@ -10,9 +10,12 @@ height: 70vh
 ---
 ## Community of Practice Monthly Meetings
 
-### February 2024
+### March 2024
 
-We are looking forward to reconnecting with everyone on February 23rd from 2 to 4 pm. A meeting invite is coming soon!
+Dr. Laura Feyrer from DFO will discuss Advancing Marine Conservation through Ensemble SDMs: A Deep Dive into Habitat Modeling for Beaked Whales in the Western North Atlantic.
+
+We will explore the challenges of modeling elusive marine species, the selection of environmental variables to ensure ecological validity, and the assessment of model performance and uncertainty. By examining beaked whales as a case study, this presentation aims to share insights on the conservation implications of using SDMs and consider approaches to enhancing SDM application for management of species at risk.
+
 ### Upcoming Meeting Themes
 
 For the next set of meetings, we'll enjoy model showcases from community members!

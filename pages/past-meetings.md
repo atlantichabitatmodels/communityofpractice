@@ -11,6 +11,14 @@ height: 70vh
 
 This page will be used to document past community of practice meetings.
 
+## February 2024
+
+Model Showcase: Whale Occurrence Model – A Case for the North Atlantic Right Whale
+
+Assessing risk for conservation management purposes requires estimates of the threats facing species and the occurrence of the species in an area. Migratory marine species must often travel through unsuitable habitats to reach important areas such as foraging or mating grounds; therefore, occurrence estimates must consider all areas, regardless of suitable habitat characteristics. In this presentation, I will showcase a model developed to estimate the probability of whale occurrence based on principles of movement ecology and built from systematic and opportunistic sightings. The example will focus on the management case of the critically endangered North Atlantic right whale.
+
+ Alexandra Mayette, MSc – Canadian Wildlife Federation
+
 ### June 2023
 
 CANCELLED: Community member Rob Cameron (Dalhousie University) will visit us!
