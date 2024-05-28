@@ -11,6 +11,14 @@ height: 70vh
 
 This page will be used to document past community of practice meetings.
 
+## April 2024
+
+CANCELLED
+
+## March 2024
+
+CANCELLED
+
 ## February 2024
 
 Model Showcase: Whale Occurrence Model – A Case for the North Atlantic Right Whale
