@@ -36,9 +36,7 @@ As with most analyses, there is no one answer, and the approach to determining y
 A good rule of thumb is to use independent ground-truthing data to maximize the value of true skill statistic (minimizes false positives/negatives in the prediction layer). Few SDM models use GPS species data or other validation techniques to validate their models, so it is can be hard to decide how much data is needed to build the model and how much is reserved for testing/statistical validation. [Indeed, that is a question to be answered all on its own.]({{ '/faqs/how-much-data' | relative_url }})
 
 As a final note: remember to consider purpose and uncertainty with your models! 
-“In any research, we reiterate that it is critical to state the purpose and method for selecting a threshold and to explore the sensitivity of the model to the threshold selected.” 
-
-For example, if we don’t have great faith in model predictions, we might want to be more rigorous by setting a higher threshold. The degree of uncertainty in the model could influence how conservative we want to be.
+“In any research, we reiterate that it is critical to state the purpose and method for selecting a threshold and to explore the sensitivity of the model to the threshold selected.” For example, if we don’t have great faith in model predictions, we might want to be more rigorous by setting a higher threshold. The degree of uncertainty in the model could influence how conservative we want to be.
 
 
 ## Literature to refer to
