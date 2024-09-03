@@ -10,16 +10,6 @@ height: 70vh
 ---
 ## Community of Practice Monthly Meetings
 
-### May 2024
-
-[Miranda Frison](https://arcg.is/v8KO9) is a MA in Geography student at Saint Mary's University. Her thesis co-supervisors are Dr. Sean R. Haughian and Dr. Peter Bush, with funding support from Mitacs and the Atlantic Canada Conservation Data Centre (AC CDC). She has completed a backwards step-wise SDM for the Eastern waterfan (_Peltigera hydrothyria_) lichen using MaxEnt. Modelling is currently being completed for Wrinkled Shingle (_Pannaria lurida_) and Black-foam (_Anzia colpodes_) lichen. All three threatened lichens are being modelled within Atlantic Canada to improve understanding of their habitat and distribution for future COSEWIC assessments. 
-
-### June 2024
-
-Nathan Hebert from DFO will discuss comparing spatio-temporal species distribution models: A case study of a Scotian Shelf sea cucumber (Cucumaria frondosa).
-
- Specifically, he will discuss three spatio-temporal statistical models for Scotian Shelf sea cucumber. The focus will be on understanding the unique spatio-temporal modelling approaches of each model and their implications for inferring sea cucumber distribution.
-
 <!---#### 
 ### March 2024
 
