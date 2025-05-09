@@ -1,6 +1,6 @@
 ---
-title: "Model Spotlight: Species Distribution Model for Fraxinus nigra (Wisqoq; Black Ash)"
-description: Fraxinus nigra is an ecologically and culturally important species facing imminent threats
+title: "Model Spotlight: Species Distribution Model for *Fraxinus nigra* (Wisqoq; Black Ash)"
+description: *Fraxinus nigra* is an ecologically and culturally important species facing imminent threats
 background: 
     img: /assets/images/iNat97730535.jpeg
     by: Pierre Cartier
@@ -30,11 +30,11 @@ Model details:
 | ------------------------- | --------------------------------------------------------------------------------------------------- |
 | Project name              | Mapping Existing and Potential *Fraxinus nigra* (Black Ash, Wisqoq) Habitat in Mainland Nova Scotia |
 | Project date              | 2022                                                                                                |
-| Project partners          | AC CDC, Parks Canada                                                                                |
+| Partners          | AC CDC, Parks Canada                                                                                |
 | Primary contact           | pender.jocelyn@gmail.com, james.churchill@accdc.ca                                                   |
-| Short project description | SDM for Wisqoq (Black Ash, *Fraxinus nigra*) using lidar-derived and other metrics                  |
-| Project documentation     | AC CDC                                                                                              |
-| Province                  | NS                                                                                                  |
+| Description | SDM for Wisqoq (Black Ash, *Fraxinus nigra*) using lidar-derived and other metrics                  |
+| Documentation     | AC CDC                                                                                              |
+| Province(s)                  | NS                                                                                                  |
 | Study site                | NS                                                                                                  |
 | Geographic extent         | Mainland NS                                                                                         |
 | Modelling approach        | Species Distribution Model                                                                          |
@@ -42,7 +42,7 @@ Model details:
 | Model grain size          | 50m                                                                                                 |
 | Product description       | 50m-resolution predictive raster showing continuous probability of suitable conditions              |
 | Data sensitivity          | sensitive                                                                                           |
-| Data use restrictions     | permission required from NS/AC CDC                                                                  |
+| Data use restrictions     | Permission required from NS/AC CDC                                                                  |
 | Data location inputs      | AC CDC                                                                                              |
 | Data location outputs     | AC CDC                                                                                              |
 
