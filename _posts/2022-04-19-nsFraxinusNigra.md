@@ -1,6 +1,6 @@
 ---
-title: "Model Spotlight: Species Distribution Model for Fraxinus nigra (Wisqoq; Black Ash)"
-description: Fraxinus nigra is an ecologically and culturally important species facing imminent threats
+title: "Model Spotlight: Species Distribution Model for *Fraxinus nigra* (Wisqoq; Black Ash)"
+description: *Fraxinus nigra* is an ecologically and culturally important species facing imminent threats
 background: 
     img: /assets/images/iNat97730535.jpeg
     by: Pierre Cartier
@@ -34,8 +34,8 @@ Model details:
 | Primary contact           | pender.jocelyn@gmail.com, james.churchill@accdc.ca                                                   |
 | Short project description | SDM for Wisqoq (Black Ash, *Fraxinus nigra*) using lidar-derived and other metrics                  |
 | Project documentation     | AC CDC                                                                                              |
-| Province                  | NS                                                                                                  |
-| Study site                | NS                                                                                                  |
+| Province(s)                  | NS                                                                                                  |
+| Study site(s)                | NS                                                                                                  |
 | Geographic extent         | Mainland NS                                                                                         |
 | Modelling approach        | Species Distribution Model                                                                          |
 | Modelling software        | Maxent                                                                                              |
