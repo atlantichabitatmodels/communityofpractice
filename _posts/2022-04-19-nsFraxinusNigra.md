@@ -1,6 +1,6 @@
 ---
-title: "Model Spotlight: Species Distribution Model for *Fraxinus nigra* (Wisqoq; Black Ash)"
-description: *Fraxinus nigra* is an ecologically and culturally important species facing imminent threats
+title: "Model Spotlight: Species Distribution Model for _Fraxinus nigra_ (Wisqoq; Black Ash)"
+description: _Fraxinus nigra_ is an ecologically and culturally important species facing imminent threats
 background: 
     img: /assets/images/iNat97730535.jpeg
     by: Pierre Cartier
