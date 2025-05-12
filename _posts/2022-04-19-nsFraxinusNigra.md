@@ -35,7 +35,7 @@ Model details:
 | Description | SDM for Wisqoq (Black Ash, *Fraxinus nigra*) using lidar-derived and other metrics                  |
 | Documentation     | AC CDC                                                                                              |
 | Province(s)                  | NS                                                                                                  |
-| Study site                | NS                                                                                                  |
+| Study site(s)                | NS                                                                                                  |
 | Geographic extent         | Mainland NS                                                                                         |
 | Modelling approach        | Species Distribution Model                                                                          |
 | Modelling software        | Maxent                                                                                              |
