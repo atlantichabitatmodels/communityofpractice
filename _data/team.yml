@@ -1,16 +1,16 @@
 # Project team members listed below will appear on the /team page
 
-- name: Jocelyn Pender
-  role: Community of Practice facilitator
-  image: https://avatars.githubusercontent.com/u/16246446?v=4
+- name:  Miranda Frison
+  role: Community of Practice Facilitator
+  image: https://avatars.githubusercontent.com/u/mirandafrison.png
   description: > # Can be Markdown
-    Jocelyn sends out meeting invites, updates the website, and sets up communication channels.
-  github: jocelynpender
-  email: pender.jocelyn@gmail.com
+    Miranda sends out meeting invites, updates the website, runs Community of Practice events, and sets up communication channels.
+  github: mirandafrison
+  email: miranda.frison@outlook.com
 
 
 - name: Charity Robicheau
-  role: Community of Practice facilitator
+  role: Senior Conservation Data Analyst
   image: assets/images/CR.jpeg
   description: > # Can be Markdown
     Charity sends out meeting invites, updates the website, and runs Community of Practice events.
@@ -18,11 +18,11 @@
   email: charity.robicheau@accdc.ca
 
 
-- name: James Churchill
-  role: Community of Practice facilitator
-  image: https://avatars.githubusercontent.com/u/87653348?v=4
-  description: >
-    James develops Community of Practice roadmaps, facilitates meetings and oversees Community of Practice initiatives.
-  github: jlchurchill
-  email: James.Churchill@accdc.ca
+- #name: James Churchill
+  #role: Community of Practice facilitator
+  #image: https://avatars.githubusercontent.com/u/87653348?v=4
+  #description: >
+  #  James develops Community of Practice roadmaps, facilitates meetings and oversees Community of Practice initiatives.
+  #github: jlchurchill
+  #email: James.Churchill@accdc.ca
   
