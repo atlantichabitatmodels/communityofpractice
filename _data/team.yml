@@ -2,7 +2,7 @@
 
 - name:  Miranda Frison
   role: Community of Practice Facilitator
-  image: assets/images/20210914_174221.jpg
+  image: assets/images/20210914_174221p.jpg
   description: > # Can be Markdown
     Miranda sends out meeting invites, updates the website, runs Community of Practice events, and sets up communication channels.
   github: mirandafrison
@@ -13,7 +13,7 @@
   role: Senior Conservation Data Analyst
   image: assets/images/CR.jpeg
   description: > # Can be Markdown
-    Charity oversees the facilitation of the Community of Practice. 
+    Charity oversees the facilitation of the Community of Practice.
   github: charityrobicheau
   email: charity.robicheau@accdc.ca
 
