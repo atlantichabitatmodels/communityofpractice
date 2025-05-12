@@ -10,7 +10,7 @@ permalink: /contact/
 
 ## Regular monthly meetings
 
-Please join us at our monthly meeting! Contact [pender.jocelyn@gmail.com](mailto:pender.jocelyn@gmail.com) to be added to the meeting invite.
+Please join us at our monthly meeting! Contact [miranda.frison@outlook.com](mailto:miranda.frison@outlook.com) to be added to the meeting invite.
 
 ## Email
 
