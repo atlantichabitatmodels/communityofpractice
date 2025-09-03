@@ -21,7 +21,7 @@ We will explore the challenges of modeling elusive marine species, the selection
 
 For the next set of meetings, we'll enjoy model showcases from community members!
 
-Do you have a model to showcase?! Please reach out to [pender.jocelyn@gmail.com](mailto:pender.jocelyn@gmail.com)!
+Do you have a model to showcase?! Please reach out to [miranda.frison@outlook.com](mailto:miranda.frison@outlook.com)!
 
 
 To participate, I'd ask that you:
