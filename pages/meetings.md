@@ -17,14 +17,14 @@ We will explore the challenges of modeling elusive marine species, the selection
 ## Upcoming Meetings
 Want to attend a meeting? Please reach out to <b style="color:teal; font-size: large">[miranda.frison@outlook.com](mailto:miranda.frison@outlook.com)</b>.
 
-Meetings are held on one Friday per month from <b style="color:teal; font-size: large;">2-4pm</b>. 
+Meetings are held on one Friday per month from <b style="color:teal; font-size: x-large;">2-4pm</b>. 
 
 Presentations by community members are approximately 2-3pm. The remaining hour will be used to do a Q&A, 5-minute break, and updates from the those in attendance. This is a great time to share any ongoing projects!
 
 <ul>
-  <li>October 3<sup>rd</sup>, 2025</li>
-  <li>November 7<sup>th</sup>, 2025 </li>
-  <li>December 5<sup>th</sup>, 2025</li>
+  <li style="text-align:center;">October 3<sup>rd</sup>, 2025</li>
+  <li style="text-align:center;">November 7<sup>th</sup>, 2025 </li>
+  <li style="text-align:center;">December 5<sup>th</sup>, 2025</li>
 </ul>
 
 ## Community of Practice Monthly Meetings
@@ -32,9 +32,9 @@ Do you have a model or relevant skill to showcase? Please reach out to <b style=
 
 To participate, we ask that you:
 <ul>
-  <li>Make your modelling code or workflow available to the community of practice</li>
-  <li>Provide us with enough context to understand your workflow and modelling decisions</li>
-  <li>Comfortable with having a blog post about your presenation be shared on the website. This includes but not limited to model metadata and model product(s). This blog will be written by Miranda and sent to you for approval prior to publishing on the site. </li>
+  <li>Make your modelling code or workflow available to the community of practice</li><br>
+  <li>Provide us with enough context to understand your workflow and modelling decisions</li><br>
+  <li>Comfortable with having a blog post about your presenation be shared on the website. This includes but not limited to model metadata and model product(s). This blog will be written by Miranda and sent to you for approval prior to publishing on the site.</li><br>
   <li>Your model(s) can be at the beginning stages, in progress, or complete</li>
 </ul>
 
