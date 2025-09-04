@@ -8,27 +8,33 @@ background:
 permalink: /meetings/
 height: 70vh
 ---
-## Community of Practice Monthly Meetings
-
 <!---#### 
 ### March 2024
 
 Dr. Laura Feyrer from DFO will discuss Advancing Marine Conservation through Ensemble SDMs: A Deep Dive into Habitat Modeling for Beaked Whales in the Western North Atlantic.
 
 We will explore the challenges of modeling elusive marine species, the selection of environmental variables to ensure ecological validity, and the assessment of model performance and uncertainty. By examining beaked whales as a case study, this presentation aims to share insights on the conservation implications of using SDMs and consider approaches to enhancing SDM application for management of species at risk.--->
+## Upcoming Meetings
+Meetings are held on one Friday per month from <b style="color:teal;">2-4pm </b>. 
 
-### Upcoming Meeting Themes
+Presentations by community members are approximately 2-3pm. The remaining hour will be used to do a Q&A, 5-minute break, and updates from the those in attendance. This is a great time to share any ongoing projects!
 
-For the next set of meetings, we'll enjoy model showcases from community members!
+<ul>
+  <li>October 3<sup>rd</sup>, 2025</li>
+  <li>November 7<sup>th</sup>, 2025 </li>
+  <li>December 5<sup>th</sup>, 2025</li>
+</ul>
 
-Do you have a model to showcase?! Please reach out to [miranda.frison@outlook.com](mailto:miranda.frison@outlook.com)!
+## Community of Practice Monthly Meetings
+Do you have a model or relevant skill to showcase? Please reach out to <b style="color:teal;">[miranda.frison@outlook.com](mailto:miranda.frison@outlook.com)</b>!
 
-
-To participate, I'd ask that you:
--	Make your modelling code or workflow available to the community of practice
--	Provide us with enough context to understand your workflow and modelling decisions
--	Write a blog post for our website, including but not limited to model metadata and a few sentences about the model product (optional, but very valuable)
--	Your model(s) can be at the beginning stages, in progress or complete!
+To participate, we ask that you:
+<ul>
+  <li>Make your modelling code or workflow available to the community of practice</li>
+  <li>Provide us with enough context to understand your workflow and modelling decisions</li>
+  <li>Comfortable with having a blog post about your presenation be shared on the website. This includes but not limited to model metadata and model product(s). This blog will be written by Miranda and sent to you for approval prior to publishing on the site. </li>
+  <li>Your model(s) can be at the beginning stages, in progress, or complete</li>
+</ul>
 
 <!---#### June 2023
 **Cancelled**
