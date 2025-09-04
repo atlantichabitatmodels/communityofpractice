@@ -21,11 +21,10 @@ Meetings are held on one Friday per month from <b style="color:teal; font-size: 
 
 Presentations by community members are approximately 2-3pm. The remaining hour will be used to do a Q&A, 5-minute break, and updates from the those in attendance. This is a great time to share any ongoing projects!
 
-<ul>
-  <li style="text-align:center;">October 3<sup>rd</sup>, 2025</li>
-  <li style="text-align:center;">November 7<sup>th</sup>, 2025 </li>
-  <li style="text-align:center;">December 5<sup>th</sup>, 2025</li>
-</ul>
+<p style="text-align:center;">October 3<sup>rd</sup>, 2025</p>
+<p style="text-align:center;">November 7<sup>th</sup>, 2025 </p>
+<p style="text-align:center;">December 5<sup>th</sup>, 2025</p>
+
 
 ## Community of Practice Monthly Meetings
 Do you have a model or relevant skill to showcase? Please reach out to <b style="color:teal; font-size: large">[miranda.frison@outlook.com](mailto:miranda.frison@outlook.com)</b>!
