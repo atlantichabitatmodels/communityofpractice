@@ -1,6 +1,6 @@
 ---
 title: Upcoming Meetings
-description: A landing page describing upcoming meetings of the community of practice
+<!--description: A landing page describing upcoming meetings of the community of practice-->
 background: 
   img: assets/images/elyse-turton-9M478YLamG0-unsplash.jpg
   by: Elyse Turton
@@ -8,14 +8,16 @@ background:
 permalink: /meetings/
 height: 70vh
 ---
-<!---#### 
+<!--#### 
 ### March 2024
 
 Dr. Laura Feyrer from DFO will discuss Advancing Marine Conservation through Ensemble SDMs: A Deep Dive into Habitat Modeling for Beaked Whales in the Western North Atlantic.
 
-We will explore the challenges of modeling elusive marine species, the selection of environmental variables to ensure ecological validity, and the assessment of model performance and uncertainty. By examining beaked whales as a case study, this presentation aims to share insights on the conservation implications of using SDMs and consider approaches to enhancing SDM application for management of species at risk.--->
+We will explore the challenges of modeling elusive marine species, the selection of environmental variables to ensure ecological validity, and the assessment of model performance and uncertainty. By examining beaked whales as a case study, this presentation aims to share insights on the conservation implications of using SDMs and consider approaches to enhancing SDM application for management of species at risk.-->
 ## Upcoming Meetings
-Meetings are held on one Friday per month from <b style="color:teal;">2-4pm </b>. 
+Want to attend a meeting? Please reach out to <b style="color:teal; font-size: large">[miranda.frison@outlook.com](mailto:miranda.frison@outlook.com)</b>.
+
+Meetings are held on one Friday per month from <b style="color:teal; font-size: large;">2-4pm</b>. 
 
 Presentations by community members are approximately 2-3pm. The remaining hour will be used to do a Q&A, 5-minute break, and updates from the those in attendance. This is a great time to share any ongoing projects!
 
@@ -26,7 +28,7 @@ Presentations by community members are approximately 2-3pm. The remaining hour w
 </ul>
 
 ## Community of Practice Monthly Meetings
-Do you have a model or relevant skill to showcase? Please reach out to <b style="color:teal;">[miranda.frison@outlook.com](mailto:miranda.frison@outlook.com)</b>!
+Do you have a model or relevant skill to showcase? Please reach out to <b style="color:teal; font-size: large">[miranda.frison@outlook.com](mailto:miranda.frison@outlook.com)</b>!
 
 To participate, we ask that you:
 <ul>
