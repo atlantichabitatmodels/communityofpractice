@@ -26,7 +26,7 @@ Presentations by community members are approximately 2-3pm. The remaining hour w
 <p style="text-align:center;">December 5<sup>th</sup>, 2025</p>
 
 
-## Community of Practice Monthly Meetings
+## Potential Presenters
 Do you have a model or relevant skill to showcase? Please reach out to <b style="color:teal; font-size: large">[miranda.frison@outlook.com](mailto:miranda.frison@outlook.com)</b>!
 
 To participate, we ask that you:
