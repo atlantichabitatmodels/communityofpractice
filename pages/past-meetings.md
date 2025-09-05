@@ -1,6 +1,6 @@
 ---
 title: Past Meetings
-description: A landing page describing past meetings of the community of practice
+<!--description: This page will be used to document past community of practice meetings-->
 background: 
   img: assets/images/elyse-turton-9M478YLamG0-unsplash.jpg
   by: Elyse Turton
@@ -9,70 +9,89 @@ permalink: /past-meetings/
 height: 70vh
 ---
 
-This page will be used to document past community of practice meetings.
+<!--
+## March 2026
+
+## February 2026
+
+## January 2026
+
+## December 2025
+
+## November 2025
+
+## October 2025
+Charity Robicheau
+-->
+## Field Season Break
+July, August, September 2025
+
+## June 2025
+Dominic Henry holds a PhD in Zoology from the University of Cape Town, South Africa, where he focused on the movement ecology of Afrotropical waterbirds. During his PhD, he developed strong quantitative skills and a deep interest in building analytical workflows for processing and modeling ecological data. He completed a Postdoctoral Research Fellowship at the Centre for Statistics in Ecology, the Environment, and Conservation, where he worked on multi-species models to explore patterns of biodiversity in arid ecosystems. He later joined the <a href="https://ewt.org/">Endangered Wildlife Trust</a> (a prominent South African conservation non-profit), leading a project to develop data and analytical workflows for modeling the distribution of hundreds of at-risk species. These outputs informed land-use decision-making tools, including South Africa’s first National Environmental Screening Tool. Dominic now works as a Conservation Scientist at the Nova Scotia Nature Trust, where he focuses on conservation planning and GIS database development. 
+
+## May 2025
+Miranda Frison will lead a presentation on how you can add maps to websites using HTML/CSS/JavaScript. If you would like to follow along, please download <a href="https://visualstudio.microsoft.com/">Visual Studio</a>. This can be a great way to showcase map products that you create with your models.
+
+## April 2025
+Jason Airst is a Species at Risk biologist with Nova Natural Resources. He has worked as a wildlife biologist for the last 15 years and has been with the Nova Scotia government for the last 6 years. He has spent most his career working on ungulate species for management and conservation purposes. This includes his present role working to recover mainland moose in Nova Scotia. Jason obtained a Bachelor of Science from Dalhousie University in 2007 and a Master’s of Bioscience from the University of Winnipeg in 2017. He will present his research of deer distribution and <i>P. tenuis</i> in Nova Scotia.
+
+## March 2025
+Miranda Frison will facilitate a presentation on the three threatened lichen species that she is studying (<i>Peltigera hydrothyria</i>, <i>Anzia colpodes</i>, <i>Pannaria lurida</i>). She will provide updates on her research since last spring. There will also be time for attendees to share their ongoing research, interesting papers that they have read, and suggestions for future meeting topics.
 
 ## May 2024
-
-[Miranda Frison](https://arcg.is/v8KO9) is a MA in Geography student at Saint Mary's University. Her thesis co-supervisors are Dr. Sean R. Haughian and Dr. Peter Bush, with funding support from Mitacs and the Atlantic Canada Conservation Data Centre (AC CDC). She has completed a backwards step-wise SDM for the Eastern waterfan (_Peltigera hydrothyria_) lichen using MaxEnt. Modelling is currently being completed for Wrinkled Shingle (_Pannaria lurida_) and Black-foam (_Anzia colpodes_) lichen. All three threatened lichens are being modelled within Atlantic Canada to improve understanding of their habitat and distribution for future COSEWIC assessments. 
+[Miranda Frison](https://arcg.is/v8KO9) is a MA in Geography student at Saint Mary's University. Her thesis co-supervisors are Dr. Sean R. Haughian and Dr. Peter Bush, with funding support from Mitacs and the Atlantic Canada Conservation Data Centre (AC CDC). She has completed a backwards step-wise SDM for the Eastern waterfan (<i>Peltigera hydrothyria</i>) lichen using MaxEnt. Modelling is currently being completed for Wrinkled Shingle (<i>Pannaria lurida</i>) and Black-foam (<i>Anzia colpodes</i>) lichen. All three threatened lichens are being modelled within Atlantic Canada to improve understanding of their habitat and distribution for future COSEWIC assessments. 
 
 ## June 2024
+Nathan Hebert from DFO will discuss comparing spatio-temporal species distribution models: A case study of a Scotian Shelf sea cucumber (<i>Cucumaria frondosa</i>).
 
-Nathan Hebert from DFO will discuss comparing spatio-temporal species distribution models: A case study of a Scotian Shelf sea cucumber (Cucumaria frondosa).
-
- Specifically, he will discuss three spatio-temporal statistical models for Scotian Shelf sea cucumber. The focus will be on understanding the unique spatio-temporal modelling approaches of each model and their implications for inferring sea cucumber distribution.
+Specifically, he will discuss three spatio-temporal statistical models for Scotian Shelf sea cucumber. The focus will be on understanding the unique spatio-temporal modelling approaches of each model and their implications for inferring sea cucumber distribution.
 
 ## April 2024
-
-CANCELLED
+Cancelled
 
 ## March 2024
-
-CANCELLED
+Cancelled
 
 ## February 2024
-
 Model Showcase: Whale Occurrence Model – A Case for the North Atlantic Right Whale
 
-Assessing risk for conservation management purposes requires estimates of the threats facing species and the occurrence of the species in an area. Migratory marine species must often travel through unsuitable habitats to reach important areas such as foraging or mating grounds; therefore, occurrence estimates must consider all areas, regardless of suitable habitat characteristics. In this presentation, I will showcase a model developed to estimate the probability of whale occurrence based on principles of movement ecology and built from systematic and opportunistic sightings. The example will focus on the management case of the critically endangered North Atlantic right whale.
+Assessing risk for conservation management purposes requires estimates of the threats facing species and the occurrence of the species in an area. Migratory marine species must often travel through unsuitable habitats to reach important areas such as foraging or mating grounds; therefore, occurrence estimates must consider all areas, regardless of suitable habitat characteristics. In this presentation, Alexandra will showcase a model developed to estimate the probability of whale occurrence based on principles of movement ecology and built from systematic and opportunistic sightings. The example will focus on the management case of the critically endangered North Atlantic Right Whale (<i>Eubalaena glacialis</i>).
 
- Alexandra Mayette, MSc – Canadian Wildlife Federation
+Alexandra Mayette, MSc – <a href="https://cwf-fcf.org/en/">Canadian Wildlife Federation</a>
 
-### June 2023
-
-CANCELLED: Community member Rob Cameron (Dalhousie University) will visit us!
+## June 2023
+Cancelled: Community member Rob Cameron (Dalhousie University) will visit us!
 
 ##### Exploring Ecological Questions with SDMs: 3 examples using lichens
 SDMs are not only useful for predicting species distribution but also for answering important ecological questions.  We will look at 3 examples of lichen studies that use SDMs to explore ecological patterns and processes. The first example uses SDMs to look at niche differentiation in 4 sympatric species of lichen.  The second example looks at assessing threats to conservation of 2 lichens and third example looks at predicting lichen rich ecosystems.
 
-### May 2023
+## May 2023
+Jordy Thomson from DFO (Fisheries and Oceans Canada) walked us through the eelgrass SDM his team developed using the biomod2 package for R. He described the environmental data layers, presence-absence observations and model context.
 
-Jordy Thomson from DFO (Fisheries and Oceans Canada) walked us through the eelgrass SDM his team developed using the biomod2 package for R! He described the environmental data layers, presence-absence observations and model context.
+## March 2023
+Maggie MacPherson from the <a href="https://borealbirds.ca/">Boreal Avian Modelling Project</a> discussed how to predict bird distributions under global change.
 
-### March 2023
-On April 14th, Maggie MacPherson from the Boreal Avian Modelling Project discussed how to predict bird distributions under global change.
-
-### February 2023
+## February 2023
 Kellina Higgins helped us understand how to design surveys for effective models.
 
 - You can find her presentation [here](../assets/presentations/Presentation_StatisticalMethods_PeltHyd_KLHiggins_20230224_upload.pdf).
 
 #### Field data to predictions with statistics in between: linking Eastern waterfan observations to landscape attributes
+<b>Ecological field data can come in many forms:</b> systematic experimental designs with set variables recorded (ecological studies), opportunistic observations (citizen science), surveys to detect species (botanical surveys) and more. Each form of data is valuable in its own way yet has its own limits. Sometimes data recorded for one purpose can be used in another context. Here, data collected with the objective of detecting populations of Eastern Waterfan (<i>Peltigera hydrothyria</i>) was used in predictive modelling to estimate the probability of its occurrence and its density across the landscape in and around Fundy National Park.<br>
 
-Ecological field data can come in many forms: systematic experimental designs with set variables recorded (ecological studies), opportunistic observations (citizen science), surveys to detect species (botanical surveys) and more. Each form of data is valuable in its own way yet has its own limits. Sometimes data recorded for one purpose can be used in another context. Here, data collected with the objective of detecting populations of Eastern Waterfan (Peltigera hydrothyria) was used in predictive modelling to estimate the probability of its occurrence and its density across the landscape in and around Fundy National Park.
-Methods: Field data was collected by the Atlantic Canada Conservation Data Centre (ACCDC) and Parks Canada supplemented by other occurrences contributed to ACCDC. In addition to observations of populations, GPS tracks representing surveys were used to estimate absence records. Landscape metrics derived from remote-sensing and photo-interpreted forest inventory data were used in the analysis to determine key habitat attributes: stream size, elevation, slope, stream aspect, canopy height, stand composition, stand age, crown closure, distance to roads, and distance to harvest cut-blocks. Conditional inference trees, logistic regression and multiple regression were used to analyze the data with the statistical software R in order to predict its presence and abundance.
-Results: Waterfan was found in medium-size streams far from roads and harvest cut-blocks at higher elevations. Its presence was also influenced by the stand composition. Larger colonies were found in steeper sections of streams with northern and eastern flow orientations. The probability of water occurrence and its abundance was inferred based on these landscape attributes to identify potential waterfan hotpots in other streams.
-Discussion: The field notes recording variables such as dominant canopy species, stream substrate, stream speed and percent canopy cover could not be included in any of the analyses due to inconsistencies in data collection between field crews and large data gaps. In addition, biases may have been introduced in the density estimates given that the methodology differed between field crews and by size of colonies. Thus, field data collection could be improved to adopt a common methodology to estimate population sizes and to record field attributes in order to better understand habitat requirements and develop more accurate predictive models. 
+<b>Methods:</b> Field data was collected by the <a href="http://accdc.com//index.html">Atlantic Canada Conservation Data Centre</a> (ACCDC) and Parks Canada supplemented by other occurrences contributed to ACCDC. In addition to observations of populations, GPS tracks representing surveys were used to estimate absence records. Landscape metrics derived from remote-sensing and photo-interpreted forest inventory data were used in the analysis to determine key habitat attributes: stream size, elevation, slope, stream aspect, canopy height, stand composition, stand age, crown closure, distance to roads, and distance to harvest cut-blocks. Conditional inference trees, logistic regression and multiple regression were used to analyze the data with the statistical software R in order to predict its presence and abundance.<br>
 
+<b>Results:</b> Waterfan was found in medium-size streams far from roads and harvest cut-blocks at higher elevations. Its presence was also influenced by the stand composition. Larger colonies were found in steeper sections of streams with northern and eastern flow orientations. The probability of water occurrence and its abundance was inferred based on these landscape attributes to identify potential waterfan hotpots in other streams.<br>
 
-### January 2023
+<b>Discussion:</b> The field notes recording variables such as dominant canopy species, stream substrate, stream speed and percent canopy cover could not be included in any of the analyses due to inconsistencies in data collection between field crews and large data gaps. In addition, biases may have been introduced in the density estimates given that the methodology differed between field crews and by size of colonies. Thus, field data collection could be improved to adopt a common methodology to estimate population sizes and to record field attributes in order to better understand habitat requirements and develop more accurate predictive models. 
 
-The Julie Lee-Yaw lab visited us to talk about the limitations of SDMs and their work testing the impacts of modeling decisions on predictions and accuracy. 
+## January 2023
+The <a href="https://www.leeyawlab.ca/">Julie Lee-Yaw lab</a> visited us to talk about the limitations of SDMs and their work testing the impacts of modeling decisions on predictions and accuracy. 
 
 ### November 2022
-
 Meeting theme: building pseudo SAR habitat models.
 
-### October 2022
+## October 2022
 
 **Skills Building Shop:** Lionel Leston from the University of Alberta demonstrated boosted regression trees for Canada Warbler and/or Wood Thrush in Nova Scotia in R.
 
@@ -80,17 +99,17 @@ Meeting theme: building pseudo SAR habitat models.
 - Optional: [download the raw data and large model outputs for Canada Warbler](https://drive.google.com/drive/folders/1uvENaFxpdQEf8QGvUiNGiItmPM4vC9Jk). Once downloaded, move the data into the correct locations in the folder structure created above (put data in 0_data/0_raw and outputs in 2_BRT_outputs)
 
 
-### September 2022: CANCELLED
+## September 2022
+Cancelled
 
-### May 2022
-
-Westwood Lab workshop: an approach to ‘grading’ data quality and quantity for environmental covariates for modelling
+## May 2022
+<a href="https://westwoodlab.ca/">Westwood Lab<a/> workshop: an approach to ‘grading’ data quality and quantity for environmental covariates for modelling
 
 Riley and Caitlin have asked shared a link where you can add any additional thoughts about the method and the workshop today: [here](https://forms.gle/HeTGJzSYUEZjQ5BC9)
 
 Remember to fill out the [two question CoP Winter & Spring exit survey.](https://forms.gle/U63HvHvUtxK3NdE96)
 
-### April 2022
+## April 2022
 
 **Meeting theme**: spread awareness of existing best practices in peer discussion groups
 
@@ -121,7 +140,7 @@ We did not have time for the analytical working group task:
 
 * [Exit survey](https://forms.gle/Uvtv8omTvukaQZiw8)
 
-### Notes
+## Notes
 
 * [Model Users breakout room notes](https://docs.google.com/document/d/1aoRRVzJRXc2uQmZCR-_uRx3tTCB0WhQhNLf3rvDADN4/edit?usp=sharing)
 * [Model Developers breakout room notes](https://docs.google.com/document/d/1FXoo42RfC8Z5SdYJSiiHDE1FaHVum8tPZl1oPHpHyHI/edit?usp=sharing)
