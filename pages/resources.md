@@ -1,6 +1,6 @@
 ---
 title: Resources
-description: A place to list resources curated by the community of practice
+description: Curated by the Community of Practice
 background: 
   img: assets/images/inaki-del-olmo-NIJuEQw0RKg-unsplash.jpg
   by: Iñaki del Olmo
@@ -8,8 +8,6 @@ background:
 permalink: /resources/
 toc: true
 ---
-
-[Edit this page](https://github.com/atlantichabitatmodels/communityofpractice/edit/gh-pages/pages/resources.md)
 
 ## Existing Best Practices
 
@@ -78,7 +76,18 @@ Concepts and Applications:
 [The Canadian Human Footprint](https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP2/EVKAVL)
 * Associated paper: [https://www.facetsjournal.com/doi/full/10.1139/facets-2021-0063#sm1](https://www.facetsjournal.com/doi/full/10.1139/facets-2021-0063#sm1)
 
-### Province Specific
-
-[Newfoundland Open Data](https://opendata.gov.nl.ca/public/opendata/page/?page-id=datasets-tabular)
-
+### Provincial and Territory Open Data
+<a href="https://search.open.canada.ca/opendata/">Government of Canada<a><br><br>
+<a href="https://open.alberta.ca/opendata">Alberta</a><br>
+<a href="https://catalogue.data.gov.bc.ca/">British Columbia</a><br>
+<a href="https://geoportal.gov.mb.ca/">Manitoba</a><br>
+<a href="https://www.snb.ca/geonb1/e/DC/catalogue-E.asp">New Brunswick</a><br>
+<a href="https://opendata.gov.nl.ca/public/opendata/page/?page-id=datasets-tabular">Newfoundland and Labrador</a><br>
+<a href="https://opendata.gov.nt.ca/">Northwest Territories</a><br>
+<a href="https://data.novascotia.ca/browse?sortBy=alpha&page=1&pageSize=20">Nova Scotia</a><br>
+<a href="https://open.canada.ca/data/dataset/?keywords=Nunavut&res_format=SHP">Nunavut</a><br>
+<a href="https://data.ontario.ca/">Ontario</a><br>
+<a href="https://data.princeedwardisland.ca/">Prince Edward Island</a><br>
+<a href="https://www.donneesquebec.ca/">Québec</a><br>
+<a href="https://geohub.saskatchewan.ca/">Saskatchewan</a><br>
+<a href="https://open.yukon.ca/data">Yukon</a>
