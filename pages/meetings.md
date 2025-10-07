@@ -23,7 +23,7 @@ Presentations by community members are approximately 2-3pm. The remaining hour w
 
 <p style="text-align:center;">November 7, 2025<sup>th</sup>, 2025 </p>
 <p style="text-align:center;">December 5, 2025<sup>th</sup>, 2025</p>
-<p style="text-align:center;">January 9, 2026<sup>rd</sup>, 2025</p>
+<p style="text-align:center;">January 9, 2026<sup>th</sup>, 2025</p>
 
 ## Potential Presenters
 Do you have a model or relevant skill to showcase? Please reach out to <b style="color:teal; font-size: large">[miranda.frison@outlook.com](mailto:miranda.frison@outlook.com)</b>!
