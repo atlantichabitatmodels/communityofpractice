@@ -32,7 +32,7 @@ To participate, we ask that you:
 <ul>
   <li>Make your modelling code or workflow available to the community of practice</li><br>
   <li>Provide us with enough context to understand your workflow and modelling decisions</li><br>
-  <li>Comfortable with having a blog post about your presenation be shared on the website. This includes but not limited to model metadata and model product(s). This blog will be written by Miranda and sent to you for approval prior to publishing on the site.</li><br>
+  <li>Comfortable with having a blog post about your presentation be shared on the website. This includes but not limited to model metadata and model product(s). This blog will be written by Miranda and sent to you for approval prior to publishing on the site.</li><br>
   <li>Your model(s) can be at the beginning stages, in progress, or complete</li>
 </ul>
 
