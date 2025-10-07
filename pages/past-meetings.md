@@ -19,10 +19,10 @@ height: 70vh
 ## December 2025
 
 ## November 2025
-
-## October 2025
-Charity Robicheau
 -->
+## October 2025
+Charity Robicheau is the Senior Conservation Data Analyst at the <a href="http://accdc.com//">Atlantic Canada Conservation Data Centre</a> (AC CDC). She holds an undergraduate degree in Geography from Memorial University, an Advanced Diploma in Remote Sensing from the Centre of Geographic Sciences (COGS), and a Master’s in Applied Geomatics from Acadia University. Driven by a passion for geospatial science, Charity enjoys applying the power of GIS to solve complex ecological questions. Since joining the AC CDC in 2019, Charity has led numerous geospatial projects with proven success in species distribution and habitat suitability modelling. She also helps manage the AC CDC’s extensive biodiversity database, delivering critical data on Species at Risk to support regional conservation efforts. This presentation will give attendees an overview of the models generated for Species at Risk by AC CDC over the last 5 years, and how these models have performed when put to test in the field.
+
 ## Field Season Break
 July, August, September 2025
 
