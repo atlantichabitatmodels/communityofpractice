@@ -17,13 +17,13 @@ We will explore the challenges of modeling elusive marine species, the selection
 ## Upcoming Meetings
 Want to attend a meeting? Please reach out to <b style="color:teal; font-size: large">[miranda.frison@outlook.com](mailto:miranda.frison@outlook.com)</b>.
 
-Meetings are held on one Friday per month from <b style="color:teal; font-size: x-large;">2-4pm ADT</b>. 
+Meetings are held on one Friday per month from <b style="color:teal; font-size: x-large;">2-4pm ADT</b>, unless otherwise specified. 
 
 Presentations by community members are approximately 2-3pm. The remaining hour will be used to do a Q&A, 5-minute break, and updates from the those in attendance. This is a great time to share any ongoing projects!
 
 <p style="text-align:center;">November 7, 2025<sup>th</sup>, 2025 </p>
 <p style="text-align:center;">December 5, 2025<sup>th</sup>, 2025</p>
-<p style="text-align:center;">January 9, 2026<sup>th</sup>, 2025</p>
+<p style="text-align:center;">January 9, 2026<sup>th</sup>, 2025 <b style="color:teal"> *Meeting will be 1-3pm ADT*</b></p> 
 <p style="text-align:center;">February 6, 2026<sup>th</sup>, 2025</p>
 <p style="text-align:center;">March 13, 2026<sup>th</sup>, 2025</p>
 
