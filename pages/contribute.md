@@ -86,8 +86,7 @@ content
 
 
 5. End your page with an empty line.
-
--->
 6. At the bottom of the page, write a short description of what you changed.
 7. Click the green buttons `Propose new file`, then `Create pull request` and then `Create pull request` again.
 8. Great! Your **proposed page** is now submitted as a [pull request](https://help.github.com/articles/about-pull-requests/) and the website maintainers have been notified. You will receive an email notification if they have questions or when your suggestions have been accepted.
+-->
