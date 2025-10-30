@@ -1,20 +1,18 @@
 ---
-title: Contributing to the website
-description: Anyone can contribute to the website. Whether it is [reporting an issue](#how-do-i-report-an-issue) or [writing content](#how-do-i-edit-content), any help in keeping the website up to date and relevant is helpful. This page explains how.
+title: Website Improvements
+description: Help us keep the Community of Practice website up to date!
 background: 
     img: /assets/images/patrice-bouchard-Wq0tdsvq5_4-unsplash.jpg
     by: Patrice Bouchard
     href: https://unsplash.com/@patriceb
 permalink: /contribute/
 ---
-
-The following content is adapted from [TDWG](https://github.com/tdwg/website).
-
-## Reporting issues
+<!--The following content is adapted from [TDWG](https://github.com/tdwg/website).-->
+## Issues and Improvements
 
 Discovered a typo? Noticed a bug? Have a suggestion to improve a page? Let us know by [creating an issue](https://github.com/atlantichabitatmodels/communityofpractice/issues/new) in the website repository.
 
-### How do I report an issue?
+<!--### How do I report an issue?
 
 [Click here](https://github.com/atlantichabitatmodels/communityofpractice/issues/new) to report an issue on GitHub. Doing so will automatically notify website maintainers and you will receive an email notification if they have questions or if the issue has been resolved.
 
@@ -88,6 +86,8 @@ content
 
 
 5. End your page with an empty line.
+
+-->
 6. At the bottom of the page, write a short description of what you changed.
 7. Click the green buttons `Propose new file`, then `Create pull request` and then `Create pull request` again.
 8. Great! Your **proposed page** is now submitted as a [pull request](https://help.github.com/articles/about-pull-requests/) and the website maintainers have been notified. You will receive an email notification if they have questions or when your suggestions have been accepted.
