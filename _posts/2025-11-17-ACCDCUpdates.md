@@ -5,7 +5,7 @@ background:
     by: Guillaume Daigle
 author: [Miranda Frison]
 tags: [Model Spotlight, SDM, HSI, NS, NB, PEI, Birds, Lichen, Species at Risk, Canada Warbler, Olive-sided Flycatcher, Eastern Wood-Pewee, Bank Swallow, Black Ash, Eastern Waterfan, Wrinkled Shingle Lichen]
-comments: false
+comments: false 
 ---
 The [Atlantic Canada Conservation Data Centre](http://accdc.com//) (AC CDC) houses Atlantic Canada’s most extensive biodiversity database, maintaining over 3.1 million records, essential to accurate and effective monitoring of Species at Risk (SAR). AC CDC is uniquely positioned to leverage both biodiversity and geospatial data to create derived products used to improve conservation outcomes for many SAR. AC CDC creates species distribution models (SDMs) and habitat suitability index (HSI) models which are used in conservation status rank updates, recovery plans, targeted field surveys and other conservation efforts. AC CDC primarily uses MaxEnt for creating SDMs and ArcGIS Pro to create HSIs.
 
@@ -54,7 +54,7 @@ Table 1. Eight species at risk highlighted in the Community of Practice presenta
 
 
 Table 2. Key information from presentation, including method of contact.
-| Field                     | Description                                                                                   |                                                                                                               
+| Field                     | Description                                                                                   |                                                                                                            
 | ------------------------- | --------------------------------------------------------------------------------------------- |
 | Project name              | An overview of habitat modelling projects for Species at Risk in the Maritimes                |
 | Project date              | 2020-2025                                                                                     |                                                                                                                    
