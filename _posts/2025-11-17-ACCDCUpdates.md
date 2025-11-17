@@ -15,6 +15,7 @@ Since 2018, AC CDC has created habitat models for numerous SAR. Eight species we
 
 
 Table 1. Eight species at risk highlighted in the Community of Practice presentation, including their COSEWIC Committee on the Status of Endangered Wildlife in Canada) and SARA (Species At Risk Act) designations, along with their provincial status within New Brunswick (NB) and Nova Scotia (NS).
+
 | Scientific Name           | Common Name             | COSEWIC         | SARA            | Provincial Status                     |
 | ------------------------- | ----------------------- | --------------- | --------------- | ------------------------------------- |
 | *Riparia riparia*         | Bank Swallow            | Threatened      | Threatened      | Endangered (NB & NS)                  |           
@@ -54,6 +55,7 @@ Table 1. Eight species at risk highlighted in the Community of Practice presenta
 
 
 Table 2. Key information from presentation, including method of contact.
+
 | Field                     | Description                                                                                   |                                                                                                            
 | ------------------------- | --------------------------------------------------------------------------------------------- |
 | Project name              | An overview of habitat modelling projects for Species at Risk in the Maritimes                |
