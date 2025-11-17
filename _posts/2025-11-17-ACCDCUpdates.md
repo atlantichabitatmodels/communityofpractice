@@ -13,8 +13,8 @@ On October 3<sup>rd</sup>, 2025, [Charity Robicheau](https://www.linkedin.com/in
 
 Since 2018, AC CDC has created habitat models for numerous SAR. Eight species were highlighted within the presentation (**Table 1**). Due to some species being classified as “location sensitive” by the New Brunswick and Nova Scotia provincial governments, this post will be limited to what information we can share publicly. If you wish to learn more about the AC CDC, please contact Charity Robicheau (**Table 2**).
 
-
-Table 1. Eight species at risk highlighted in the Community of Practice presentation, including their COSEWIC Committee on the Status of Endangered Wildlife in Canada) and SARA (Species At Risk Act) designations, along with their provincial status within New Brunswick (NB) and Nova Scotia (NS).
+</br>
+**Table 1**. Eight species at risk highlighted in the Community of Practice presentation, including their COSEWIC Committee on the Status of Endangered Wildlife in Canada) and SARA (Species At Risk Act) designations, along with their provincial status within New Brunswick (NB) and Nova Scotia (NS).
 
 | Scientific Name           | Common Name             | COSEWIC         | SARA            | Provincial Status                     |
 | ------------------------- | ----------------------- | --------------- | --------------- | ------------------------------------- |
@@ -26,7 +26,7 @@ Table 1. Eight species at risk highlighted in the Community of Practice presenta
 | *Peltigera hydrothyria*   | Eastern Waterfan        | Threatened      | Threatened      | Threatened (NB & NS)                  |
 | *Pannaria lurida*         | Wrinkled Shingle Lichen | Threatened      | Threatened      | Endangered (NB); Threatened (NS)      |
 
-
+</br>
 **Bank Swallows** (*Riparia riparia*)
 + Banks modelling algorithm developed to locate bank suitable structure for nesting
 + Hundreds of Fisheries and Oceans Canada (DFO) analysed using known presences from the AC CDC database, iNaturalist, and the North American Breeding Bird Survey (BBS)
@@ -53,8 +53,8 @@ Table 1. Eight species at risk highlighted in the Community of Practice presenta
 + 22 new records were found on PEI, in addition to multiple other SAR lichens
 
 
-
-Table 2. Key information from presentation, including method of contact.
+</br>
+**Table 2**. Key information from presentation, including method of contact.
 
 | Field                     | Description                                                                                   |                                                                                                            
 | ------------------------- | --------------------------------------------------------------------------------------------- |
