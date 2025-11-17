@@ -26,6 +26,33 @@ Since 2018, AC CDC has created habitat models for numerous SAR. Eight species we
 | *Pannaria lurida*         | Wrinkled Shingle Lichen | Threatened      | Threatened      | Endangered (NB); Threatened (NS)      |
 
 <br></br>
+**Bank Swallows** (*Riparia riparia*)
++ Banks modelling algorithm developed to locate bank suitable structure for nesting
++ Hundreds of Fisheries and Oceans Canada (DFO) analysed using known presences from the AC CDC database, iNaturalist, and the North American Breeding Bird Survey (BBS)
++ Ground truthing conducted to determine if bank substrate provided suitable habitat
+
+**Canada Warblers** (*Cardellina canadensis*), **Olive-sided Flycatchers** (*Contopus cooperi*), and **Eastern Wood-Pewees** (*Contopus virens*) for Prince Edward Island
++ Initial models completed in 2020, with improvements made in 2023 including LiDAR from 2020, new presence data, adding a shrub density metric, and depth to water table data
++ Modified model resulting in lowering subdivision lot sizes due to overlapping Canada Warbler habitat
++ Model aids Parks Canada with ARU placement for monitoring 
+
+**Black Ash** (*Fraxinus nigra*)
++ Models were created both with and without climate variables, with experts selecting the models which included climate variables, as it provided robust understanding of the habitat
++ Resolution and occurrence records varied with models for each province due to data availability: Nova Scotia (50 m, 1000+ records), New Brunswick (50 m, 2300+ records), Prince Edward Island (30 m, 900+ records)
++ Targeted surveys based on models were conducted and consistently found Black Ash at areas deemed to have high habitat suitability
++ 324 new records of Black Ash were found in 2024 resulting from this work
+
+**Eastern Waterfan Lichen** (*Peltigera hydrothyria*)
++ Summarized where the species has been found within Fundy National Park, NB and determined hotspots
++ Regression analysis was used to determine probability of occurrence and predicted density
++ More likely to find the lichen within the park than within 10 km of the park boundary and waterfan is highly sensitive to disturbance caused by humans (logging, suspended sediment in water, stream pH, etc.)
+
+**Wrinkled Shingle Lichen** (*Pannaria lurida*)
++ HSI model was created due to lack of presence records
++ 22 new records were found on PEI, in addition to multiple other SAR lichens
+
+<br></br>
+
 **Table 2**. Key information from presentation, including method of contact.
 | Field                     | Description                                                                                   |                                                                                                               
 | ------------------------- | --------------------------------------------------------------------------------------------- |
