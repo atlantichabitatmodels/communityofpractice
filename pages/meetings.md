@@ -21,7 +21,6 @@ Meetings are held on one Friday per month from <b style="color:teal; font-size: 
 
 Presentations by community members are approximately 2-3pm. The remaining hour will be used to do a Q&A, 5-minute break, and updates from the those in attendance. This is a great time to share any ongoing projects!
 
-<p style="text-align:center;">December 5<sup>th</sup>, 2025</p>
 <p style="text-align:center;">January 9<sup>th</sup>, 2026 <b style="color:teal"> *Meeting will be 1-3pm ADT*</b></p> 
 <p style="text-align:center;">February 6<sup>th</sup>, 2026</p>
 <p style="text-align:center;">March 13<sup>th</sup>, 2026</p>
