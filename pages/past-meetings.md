@@ -13,9 +13,10 @@ height: 70vh
 ## March 2026
 
 ## February 2026
-
-## January 2026
 -->
+## January 2026
+<a href="https://www.linkedin.com/in/rebecca-pietrosanu-2024062aa/">Rebeca Pietrosanu</a> (she/her) is an undergraduate student in the <a href="https://westwoodlab.ca/">Westwood Lab</a> at Dalhousie University, pursuing a combined Honours BSc in Environmental Science and Biology, and a Certificate in Geographic Information Science. Her current project aims to better understand how environmental variables influence the distribution of Atlantic salmon (<i>Salmo salar</i>) in the St. Mary’s River watershed on Nova Scotia’s Eastern Shore, through the use of a species distribution model. In her presentation, she outlined her proposed methods, the environmental variables developed so far, and the next steps in building the model. The goal of her work is to improve understanding of how environmental factors affect Atlantic salmon, identify key connectivity barriers for remediation within the St. Mary’s River watershed, and ultimately contribute to broader applications of species distribution models in freshwater species and habitat conservation.
+
 ## December 2025
 <a href="https://www.linkedin.com/in/amy-sutley-35a896195/">Amy Sutley</a> is a graduate student in the <a href="https://www.dal.ca/study/programs/graduate-professional/resource-environmental-management-mrem.html">Master of Resource and Environmental Management (MREM)</a> program at Dalhousie University. She holds an undergraduate degree in Zoology from the University of Calgary. Amy worked as a wildlife biologist in environmental consulting from 2020-2024 before pursuing graduate studies to enhance her knowledge and skills in support of wildlife conservation. Following her recent experience as a wildlife technician with the Canadian Wildlife Service in Alberta and Saskatchewan, Amy’s recent research has focused on the distribution and habitat associations of prairie birds. She presented her findings and ongoing work from her capstone project (advised by <a href="https://westwoodlab.ca/">Dr. Alana Westwood</a>) to the Community of Practice. Her project aimed to model the predicted occurrence of an emerging species of conservation concern ─ the LeConte’s sparrow (<i>Ammospiza leconteii</i>) ─ and select priority areas for conservation in the prairies.
 
