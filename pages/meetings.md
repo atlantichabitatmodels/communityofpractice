@@ -21,12 +21,9 @@ Meetings are held on one Friday per month from <b style="color:teal; font-size: 
 
 Presentations by community members are approximately 2-3pm. The remaining hour will be used to do a Q&A, 5-minute break, and updates from the those in attendance. This is a great time to share any ongoing projects!
 
-<p style="text-align:center;">March 6<sup>th</sup>, 2026</p>
-
-<a href="https://www.linkedin.com/in/terrell-roulston-927042265/">Terrell Roulston</a> (he/him) is a Research Associate in the <a href="http://migicovskylab.ca/home.html">Migicovsky Lab</a> at Acadia University (Wolfville, NS). He holds an MSc in Plant Science from the University of British Columbia and a BSc (Honours) in Biology from Saint Mary’s University. His research focuses on modeling the distribution of crop wild relatives (CWR) plant species and projecting the impacts of climate change on these ecologically and economically important species. Using Maxent species distribution models (SDMs), Terrell has examined the current and future habitat suitability of native North American apples (Rosaceae: Malus). Domesticated apples are Canada’s most economically productive fruit crop, and their wild relatives contain valuable genetic traits for things such as disease resistance. However, without spatially informed conservation strategies, these species and their genetic diversity are vulnerable under climate change. In this presentation, Terrell will explore how taxonomic uncertainty can influence SDM predictions, using eastern North American Malus (section Chloromeles) as a case study while contrasting with the singular western species, and demonstrate how SDMs can be extended into conservation gap analyses to assess whether protected areas adequately capture suitable habitat under recent historical and projected future conditions.
-
 <br>
 <p style="text-align:center;">March 13<sup>th</sup>, 2026 will feature a presentation by <a href="https://natureconservancy.ca/people/justin-kreller/">Justin Kreller.</a></p>
+Justin applies his hybrid background in engineering and conservation to solve complex biodiversity problems. For his master's research, he developed spatiotemporal simulation models to understand and forecast invasive plant spread across broad scales. Over the past two and a half years, he conducted this work as a Weston Family Conservation Science Fellow at the Nature Conservancy of Canada, where he had the opportunity to connect with conservation scientists and professionals nationwide as well as harness his science communication, storytelling, and technical writing skills. 
 
 
 ## Potential Presenters
