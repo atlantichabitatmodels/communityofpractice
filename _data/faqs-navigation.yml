@@ -18,5 +18,7 @@
     href: /faqs/thresholds/
   - text: How can we verify or validate the model we’ve built?
     href: /faqs/model-verification-validation/
+  - text: What process should we use to obtain the most parsimonious set of predictor variables?
+    href: /faqs/predictor-variables/
 - text: Authors
   href: best-practices-wg-team
