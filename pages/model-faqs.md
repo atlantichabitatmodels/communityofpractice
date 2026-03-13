@@ -34,3 +34,7 @@ These 'modelling best practices' will be used by the community when building mod
 [How can we verify or validate the model we’ve built?]({{ '/faqs/model-verification-validation' | relative_url }})
 
 [What process should we use to obtain the most parsimonious set of predictor variables?]({{ '/faqs/predictor-variables' | relative_url }})
+
+[How to efficiently offer support/resources to train students who might start studying SDM approaches but need a lot of guidance to get going?]({{ '/faqs/new-to-SDMs' | relative_url }})
+
+[How many seasons of field data should you collect for model building or validation?]({{ '/faqs/field-data' | relative_url }})
