@@ -54,21 +54,19 @@ your way!
 Table 1: Modelling methods, type of species data required, and suggested further reading.
 
 | Method | Model Name/Software | Type | Species Data Type | Links for Further Learning |
-| :--- | :--- | :--- | :--- | :--- |
-
-| Climatic envelope | BIOCLIM | :--- | :--- | :--- |
-| Gower metric | DOMAIN | :--- | :--- | :--- |
-| Ecological niche factor analysis (ENFA) | BIOMAPPER | Suitability | Presence/background | :--- |
-| Maximum entropy | MAXENT | Suitability | Presence/background | :--- |
-| Genetic algorithm | GARP | Suitability | :--- | :--- |
-| Regression: generalized linear model (GLM) and generalized additive model (GAM) | :--- | :--- | :--- | :--- |
-| Artificial neural network (ANN) | SPECIES, MATLAB | :--- | :--- | :--- |
-| Classification and regression trees (CART) | BIOMOD | :--- | :--- | :--- |
-| Multivariate adaptive regression splines (MARS) | MARS (with R) | :--- | :--- | :--- |
-| Favourability function (FF) | FF (with R) | :--- | :--- | :--- |
-| Random forest (RF) | RF (with R) | :--- | :--- | :--- |
-| Boosted regression trees (BRT) | BRT (with R) | :--- | :--- | :--- |
-| Bayesian species distribution models | spOccupancy (with R) | :--- | :--- | :--- |
+| Climatic envelope | BIOCLIM | Probability | Presence-only  | <a href="https://cran.r-project.org/web/packages/dismo/dismo.pdf">R tutorial</a>; <a href="https://onlinelibrary-wiley-com.proxy.hil.unb.ca/doi/full/10.1111/aec.12628">Booth, 2019</a> |
+| Gower metric | DOMAIN | Probability | Presence-only  | <a href="https://www.whoi.edu/cms/files/Carpenter_etal_2003_53463.pdf">Carpenter et al., 1993</a>; <a href="https://cran.r-project.org/web/packages/dismo/dismo.pdf">R tutorial</a> |
+| Ecological niche factor analysis (ENFA) | BIOMAPPER | Suitability | Presence/background | <a href="https://www2.unil.ch/biomapper/">BioMapper tutorial</a> |
+| Maximum entropy | MAXENT | Suitability | Presence/background | <a href="https://www.youtube.com/watch?v=f9vwrZf6ncU">YouTube tutorial</a>; <a href="https://naturalis.github.io/mebioda/doc/week2/w2d5/Mebioda_PracticalManual_2019.pdf">Maxent step by step</a> |
+| Genetic algorithm | GARP | Suitability | Presence/pseudoabsence | <a href="https://onlinelibrary-wiley-com.proxy.hil.unb.ca/doi/full/10.1111/ecog.05642">Haase et al., 2021</a>; <a href="http://www.bio-nica.info/Biblioteca/lee2004guidegarp.pdf">Tutorial</a> |
+| Regression: generalized linear model (GLM) and generalized additive model (GAM) | GRASP | Probability | Presence/absence | <a href="https://www.researchgate.net/profile/Daniele_Ventura/post/What_is_the_best_way_of_analyzing_spatial_and_temporal_variation_in_species_composition_and_abundance_dataset/attachment/59d62fcf79197b807798df01/AS:359897272209408@1462817604512/download/Script_ModRegress.pdf">Tutorial</a>; <a href="https://www-sciencedirect-com.proxy.hil.unb.ca/science/article/pii/S0304380002002041">Guisan et al., 2002</a> |
+| Artificial neural network (ANN) | SPECIES, MATLAB | Probability | Presence/absence | <a href="https://support.bccvl.org.au/support/solutions/articles/6000083200-artificial-neural-network">Introduction</a>; <a href="https://www.youtube.com/watch?v=ySwD2tYhtmQ">YouTube tutorial</a> |
+| Classification and regression trees (CART) | BIOMOD | Probability | Presence/absence | <a href="https://www.researchgate.net/profile/Daniele_Ventura/post/What_is_the_best_way_of_analyzing_spatial_and_temporal_variation_in_species_composition_and_abundance_dataset/attachment/59d62fcf79197b807798df01/AS:359897272209408@1462817604512/download/Script_ModRegress.pdf">Tutorial</a> |
+| Multivariate adaptive regression splines (MARS) | MARS (with R) | Probability | Presence/absence | <a href="https://support.biosecuritycommons.org.au/support/solutions/articles/6000262276-multivariate-adaptive-regression-splines-mars-sdm-explained">Introduction</a>; <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/j.1472-4642.2007.00340.x">Elith and Leathwick, 2007</a>; <a href="http://www.r-gators.com/2018/01/24/introduction-to-species-distribution-models/">R tutorial</a> |
+| Favourability function (FF) | FF (with R) | Probability | Presence/absence | <a href="https://biogeografia-uma.com/wp-content/uploads/2018/09/The_favourability_function.pdf">Introduction</a>; <a href="https://fuzzysim.r-forge.r-project.org/fuzzySim-modelling-tutorial.html">R tutorial</a> |
+| Random forest (RF) | RF (with R) | Probability | Presence/background | <a href="https://onlinelibrary-wiley-com.proxy.hil.unb.ca/doi/10.1111/ecog.05615">Valavi et al., 2021</a> |
+| Boosted regression trees (BRT) | BRT (with R) | Probability | Presence/absence | <a href="https://uc-r.github.io/regression_trees">R tutorial</a>; <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-2656.2008.01390.x">Elith et al., 2008</a> |
+| Bayesian species distribution models | spOccupancy (with R) | Probability | Presence/absence | <a href="https://www.jeffdoser.com/files/spoccupancy-web/">Single-Species, Multi-Species, and Integrated Spatial Occupancy Models</a> |
 
 ###Other Helpful Links
 <a href="https://zoonproject.github.io/zoontutorials/articles/Choosing_A_Modelling_Method.html">Choosing a model method.</a>
