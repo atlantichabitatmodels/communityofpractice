@@ -13,7 +13,8 @@ navigation: faqs-navigation
 ---
 
 By: [Alana Westwood]({{ 'best-practices-wg-team/#Dr.+Alana+Westwood' | relative_url }}), [Courtney Burk]({{ 'best-practices-wg-team/#Courtney+Burk' | relative_url }}), and [Robert Buchkowski]({{ 'best-practices-wg-team/#Dr.+Robert+Buchkowski' | relative_url }})
-##Introduction
+
+## Introduction
 
 As all ecologists know, flora and fauna are a tricky thing to measure (some species worse than others!).
 Their abundance often varies year-to-year due to either natural, cyclical fluctuations in population or
