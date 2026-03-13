@@ -12,9 +12,9 @@ comments: true
 navigation: faqs-navigation
 ---
 
-## Introduction
-
 By: [Robert Buchkowski]({{ 'best-practices-wg-team/#Dr.+Robert+Buchkowski' | relative_url }}), [Alana Westwood]({{ 'best-practices-wg-team/#Dr.+Alana+Westwood' | relative_url }}), and [Courtney Burk]({{ 'best-practices-wg-team/#Courtney+Burk' | relative_url }})
+
+## Introduction
 
 Species distribution models (SDMs) can use both data collected in the field and data derived from
 remote sensing. This means there is often a long list of potential variables (sometimes called covariates)
