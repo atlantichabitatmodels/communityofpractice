@@ -20,5 +20,9 @@
     href: /faqs/model-verification-validation/
   - text: What process should we use to obtain the most parsimonious set of predictor variables?
     href: /faqs/predictor-variables/
+  - text: How to efficiently offer support/resources to train students who might start studying SDM approaches but need a lot of guidance to get going?
+    href: /faqs/new-to-SDMs/
+  - text: How many seasons of field data should you collect for model building or validation?
+    href: /faqs/field-data/
 - text: Authors
   href: best-practices-wg-team
