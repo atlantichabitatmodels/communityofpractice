@@ -27,7 +27,7 @@ space, aka predictive forecasting (Figure 1). In some cases, SDMs are used to ex
 environmental conditions influence the occurrence or abundance of a species.
 
 
-![Figure provided by Zurell, 2020.](../assets/images/Zurell2020.png)
+![Figure provided by Zurell, 2020.](../../assets/images/Zurell2020.png)
 <br>Figure 1: The main modelling cycle in species distribution modelling (Zurell, 2020).
 
 
