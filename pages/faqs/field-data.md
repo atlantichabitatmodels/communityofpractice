@@ -24,7 +24,7 @@ nighthawk (not-so-common anymore!).
 
 In the answer to this question, we consider the appropriate temporal spread and effort for 
 field-collected data to build or validate your model. Note that we do <i>not</i> consider how much species data is
-enough to build a robust model—that question is covered in ,a href="https://atlantichabitatmodels.github.io/communityofpractice/faqs/how-much-data/">this post</a>.
+enough to build a robust model—that question is covered in <a href="https://atlantichabitatmodels.github.io/communityofpractice/faqs/how-much-data/">this post</a>.
 
 There are four main considerations here: 1. The ecology of your species, 2. Major changes in your
 study area or your species’ abundance, 3. Spatial bias in your dataset, and 4. Budget and resources.
