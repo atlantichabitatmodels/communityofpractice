@@ -26,8 +26,9 @@ environmental variable and then generate predictive maps of species distribution
 space, aka predictive forecasting (Figure 1). In some cases, SDMs are used to explain or understand how
 environmental conditions influence the occurrence or abundance of a species.
 
-![Figure provided by Zurell, 2020.](/assets/images/Zurell2020.png/)
-Figure 1: The main modelling cycle in species distribution modelling (Zurell, 2020).
+<img src="/assets/images/Zurell2020.png/" alt="Figure provided by Zurell, 2020." width="500" align="center">
+<p align="center">Figure 1: The main modelling cycle in species distribution modelling (Zurell, 2020).</p>
+
 
 There are two main data components to an SDM: (1) species data and (2) environmental data. Species
 data can comprise presence-only data (just where that species has been observed), presence-absence
@@ -53,7 +54,7 @@ your way!
 
 Table 1: Modelling methods, type of species data required, and suggested further reading.
 
-| Method | Model Name/Software | Type | Species Data Type | Links for Further Learning |
+| <b>Method</b> | <b>Model Name/Software</b> | <b>Type</b> | <b>Species Data Type</b> | <b>Links for Further Learning</b> |
 | Climatic envelope | BIOCLIM | Probability | Presence-only  | <a href="https://cran.r-project.org/web/packages/dismo/dismo.pdf">R tutorial</a>; <a href="https://onlinelibrary-wiley-com.proxy.hil.unb.ca/doi/full/10.1111/aec.12628">Booth, 2019</a> |
 | Gower metric | DOMAIN | Probability | Presence-only  | <a href="https://www.whoi.edu/cms/files/Carpenter_etal_2003_53463.pdf">Carpenter et al., 1993</a>; <a href="https://cran.r-project.org/web/packages/dismo/dismo.pdf">R tutorial</a> |
 | Ecological niche factor analysis (ENFA) | BIOMAPPER | Suitability | Presence/background | <a href="https://www2.unil.ch/biomapper/">BioMapper tutorial</a> |
@@ -68,7 +69,7 @@ Table 1: Modelling methods, type of species data required, and suggested further
 | Boosted regression trees (BRT) | BRT (with R) | Probability | Presence/absence | <a href="https://uc-r.github.io/regression_trees">R tutorial</a>; <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-2656.2008.01390.x">Elith et al., 2008</a> |
 | Bayesian species distribution models | spOccupancy (with R) | Probability | Presence/absence | <a href="https://www.jeffdoser.com/files/spoccupancy-web/">Single-Species, Multi-Species, and Integrated Spatial Occupancy Models</a> |
 
-###Other Helpful Links
+### Other Helpful Links
 <a href="https://zoonproject.github.io/zoontutorials/articles/Choosing_A_Modelling_Method.html">Choosing a model method.</a>
 <a href="http://www.r-gators.com/2018/01/24/introduction-to-species-distribution-models/">Video: Introduction to SDM.</a>
 
