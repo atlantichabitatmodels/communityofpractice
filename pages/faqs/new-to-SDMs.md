@@ -71,6 +71,6 @@ Table 1: Modelling methods, type of species data required, and suggested further
 | Bayesian species distribution models | spOccupancy (with R) | Probability | Presence/absence | <a href="https://www.jeffdoser.com/files/spoccupancy-web/">Single-Species, Multi-Species, and Integrated Spatial Occupancy Models</a> |
 
 ### Other Helpful Links
-<a href="https://zoonproject.github.io/zoontutorials/articles/Choosing_A_Modelling_Method.html">Choosing a model method.</a>
+<a href="https://zoonproject.github.io/zoontutorials/articles/Choosing_A_Modelling_Method.html">Choosing a model method.</a><br>
 <a href="http://www.r-gators.com/2018/01/24/introduction-to-species-distribution-models/">Video: Introduction to SDM.</a>
 
