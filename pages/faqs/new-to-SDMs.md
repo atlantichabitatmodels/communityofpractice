@@ -26,8 +26,9 @@ environmental variable and then generate predictive maps of species distribution
 space, aka predictive forecasting (Figure 1). In some cases, SDMs are used to explain or understand how
 environmental conditions influence the occurrence or abundance of a species.
 
-<img src="/assets/images/Zurell2020.png/" alt="Figure provided by Zurell, 2020." width="500" align="center">
-<p align="center">Figure 1: The main modelling cycle in species distribution modelling (Zurell, 2020).</p>
+
+![Figure provided by Zurell, 2020.](/assets/images/Zurell2020.png)
+<br>Figure 1: The main modelling cycle in species distribution modelling (Zurell, 2020).
 
 
 There are two main data components to an SDM: (1) species data and (2) environmental data. Species
