@@ -20,11 +20,11 @@ Want to attend a meeting? Please reach out to <b style="color:teal; font-size: l
 Meetings are held on one Friday per month from <b style="color:teal; font-size: x-large;">2-4pm ADT</b>, unless otherwise specified. 
 
 Presentations by community members are approximately 2-3pm. The remaining hour will be used to do a Q&A, 5-minute break, and updates from the those in attendance. This is a great time to share any ongoing projects!
-
+<!--
 <br>
 <p style="text-align:center;">March 13<sup>th</sup>, 2026 will feature a presentation by <a href="https://natureconservancy.ca/people/justin-kreller/">Justin Kreller.</a></p>
 Justin applies his hybrid background in engineering and conservation to solve complex biodiversity problems. For his master's research, he developed spatiotemporal simulation models to understand and forecast invasive plant spread across broad scales. Over the past two and a half years, he conducted this work as a Weston Family Conservation Science Fellow at the Nature Conservancy of Canada, where he had the opportunity to connect with conservation scientists and professionals nationwide as well as harness his science communication, storytelling, and technical writing skills. 
-
+-->
 
 ## Potential Presenters
 Do you have a model or relevant skill to showcase? Please reach out to <b style="color:teal; font-size: large">[miranda.frison@outlook.com](mailto:miranda.frison@outlook.com)</b>!
